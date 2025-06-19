@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>環境控制 on 協磁</title>
+    <link>https://mis3085.github.io/docs-assoma/zh-tw/tags/%E7%92%B0%E5%A2%83%E6%8E%A7%E5%88%B6/</link>
+    <description>Recent content in 環境控制 on 協磁</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2025 www.assoma.com</copyright>
+    <atom:link href="https://mis3085.github.io/docs-assoma/zh-tw/tags/%E7%92%B0%E5%A2%83%E6%8E%A7%E5%88%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子設備核心連結與現代PCB產業挑戰</title>
+      <link>https://mis3085.github.io/docs-assoma/zh-tw/applications/pcb-industry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/zh-tw/applications/pcb-industry/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;電子設備的核心連結：PCB的角色 
+    &lt;div id=&#34;電子設備的核心連結pcb的角色&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9b%bb%e5%ad%90%e8%a8%ad%e5%82%99%e7%9a%84%e6%a0%b8%e5%bf%83%e9%80%a3%e7%b5%90pcb%e7%9a%84%e8%a7%92%e8%89%b2&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;印刷電路板（PCB）是現代所有電子設備不可或缺的組件。以智慧型手機為例，顯示螢幕、電池、SIM卡、microSD卡槽、觸控感應晶片、喇叭、攝影鏡頭與各類感測器等，這些元件皆需透過PCB連接至處理器單元（如多核CPU與GPU），才能協同運作。PCB正是將這些元件整合並確保其協同運作的關鍵平台。&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

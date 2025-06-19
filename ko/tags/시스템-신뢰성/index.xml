@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>시스템 신뢰성 on ASSOMA</title>
+    <link>https://mis3085.github.io/docs-assoma/ko/tags/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%8B%A0%EB%A2%B0%EC%84%B1/</link>
+    <description>Recent content in 시스템 신뢰성 on ASSOMA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>© 2025 www.assoma.com</copyright>
+    <atom:link href="https://mis3085.github.io/docs-assoma/ko/tags/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%8B%A0%EB%A2%B0%EC%84%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>모니터링 및 건조 운전 보호를 통한 펌프 시스템 보호</title>
+      <link>https://mis3085.github.io/docs-assoma/ko/products/pump-protector-monitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/ko/products/pump-protector-monitor/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;펌프 시스템의 신뢰할 수 있는 작동 보장 
+    &lt;div id=&#34;펌프-시스템의-신뢰할-수-있는-작동-보장&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%98-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%ec%9e%91%eb%8f%99-%eb%b3%b4%ec%9e%a5&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;펌프는 모든 순환 또는 유체 이송 시스템의 핵심으로서 운영 효율성을 유지하는 데 중요한 역할을 합니다. 수많은 움직이는 부품이 존재하기 때문에 견고한 구조 설계에만 의존하는 것이 아니라 효과적인 보호 및 모니터링 메커니즘을 구현하는 것이 필수적입니다. 이러한 접근 방식은 비정상 작동을 방지하고 마모를 조기에 감지하여 전체 시스템을 보호하는 데 도움을 줍니다.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
