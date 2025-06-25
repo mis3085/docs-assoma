@@ -3,68 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/purchasing/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/our-company/purchasing/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/en/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/de/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/es/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/fr/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/pt/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/ru/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/ar/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/hi/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/ja/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/ko/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/our-company/purchasing/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/purchasing/"
+      href="https://mis3085.github.io/docs-assoma/it/our-company/purchasing/"
     />
   </url>
   <url>
@@ -130,6 +130,131 @@
       rel="alternate"
       hreflang="it"
       href="https://mis3085.github.io/docs-assoma/it/applications/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-assoma/it/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-assoma/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-assoma/de/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-assoma/es/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-assoma/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-assoma/pt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-assoma/ru/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-assoma/ar/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-assoma/hi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-assoma/ja/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-assoma/ko/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-assoma/it/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-assoma/it/news/pump-knowledge/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-assoma/en/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-assoma/de/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-assoma/es/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-assoma/fr/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-assoma/pt/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-assoma/ru/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-assoma/ar/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-assoma/hi/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-assoma/ja/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-assoma/ko/news/pump-knowledge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-assoma/it/news/pump-knowledge/"
     />
   </url>
   <url>
@@ -393,263 +518,318 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/corporate-governance/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/news/basics-training-of-a-pump-system/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/en/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/de/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/es/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/fr/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/pt/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/ru/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/ar/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/hi/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/ja/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/ko/news/basics-training-of-a-pump-system/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/corporate-governance/"
+      href="https://mis3085.github.io/docs-assoma/it/news/basics-training-of-a-pump-system/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/green-assoma/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/news/pump-operation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/en/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/de/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/es/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/fr/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/pt/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/ru/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/ar/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/hi/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/ja/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/green-assoma/"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-assoma/ko/news/pump-operation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/green-assoma/"
+      href="https://mis3085.github.io/docs-assoma/it/news/pump-operation/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/our-company/corporate-governance/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/"
+      href="https://mis3085.github.io/docs-assoma/en/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/"
+      href="https://mis3085.github.io/docs-assoma/de/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/"
+      href="https://mis3085.github.io/docs-assoma/es/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/"
+      href="https://mis3085.github.io/docs-assoma/fr/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/"
+      href="https://mis3085.github.io/docs-assoma/pt/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/"
+      href="https://mis3085.github.io/docs-assoma/ru/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/"
+      href="https://mis3085.github.io/docs-assoma/ar/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/"
+      href="https://mis3085.github.io/docs-assoma/hi/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/"
+      href="https://mis3085.github.io/docs-assoma/ja/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/"
+      href="https://mis3085.github.io/docs-assoma/ko/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/our-company/corporate-governance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/"
+      href="https://mis3085.github.io/docs-assoma/it/our-company/corporate-governance/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/our-brand/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/our-company/green-assoma/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/en/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/de/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/es/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/fr/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/pt/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/ru/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/ar/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/hi/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/ja/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/ko/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/our-company/green-assoma/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/our-brand/"
+      href="https://mis3085.github.io/docs-assoma/it/our-company/green-assoma/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-assoma/it/our-company/our-brand/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-assoma/en/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-assoma/de/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-assoma/es/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-assoma/fr/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-assoma/pt/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-assoma/ru/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-assoma/ar/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-assoma/hi/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-assoma/ja/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-assoma/ko/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/our-company/our-brand/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-assoma/it/our-company/our-brand/"
     />
   </url>
   <url>
@@ -753,13 +933,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/applications/pcb-industry/"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-assoma/ar/applications/pcb-industry/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/applications/pcb-industry/"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-assoma/hi/applications/pcb-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -768,8 +948,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/applications/pcb-industry/"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-assoma/ko/applications/pcb-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -780,71 +960,6 @@
       rel="alternate"
       hreflang="it"
       href="https://mis3085.github.io/docs-assoma/it/applications/pcb-industry/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/"
     />
   </url>
   <url>
@@ -913,68 +1028,128 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/our-company/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/our-company/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/en/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/de/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/es/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/fr/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/pt/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/ru/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/ar/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/hi/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/ja/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/ko/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/our-company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/our-company/"
+      href="https://mis3085.github.io/docs-assoma/it/our-company/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-assoma/it/news/pump-system-maintenance/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-assoma/en/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-assoma/de/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-assoma/es/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-assoma/fr/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-assoma/pt/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-assoma/ru/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-assoma/ar/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-assoma/hi/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-assoma/ja/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-assoma/ko/news/pump-system-maintenance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-assoma/it/news/pump-system-maintenance/"
     />
   </url>
   <url>
@@ -1173,68 +1348,68 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/policies/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/our-company/policies/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/en/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/de/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/es/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/fr/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/pt/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/ru/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/ar/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/hi/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/ja/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/ko/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/our-company/policies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/policies/"
+      href="https://mis3085.github.io/docs-assoma/it/our-company/policies/"
     />
   </url>
   <url>
@@ -1498,68 +1673,68 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/corporate-responsibility/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/our-company/corporate-responsibility/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/en/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/de/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/es/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/fr/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/pt/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/ru/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/ar/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/hi/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/ja/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/ko/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/our-company/corporate-responsibility/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/corporate-responsibility/"
+      href="https://mis3085.github.io/docs-assoma/it/our-company/corporate-responsibility/"
     />
   </url>
   <url>
@@ -1628,68 +1803,193 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-assoma/it/abouts/company-milestones/</loc>
+    <loc>https://mis3085.github.io/docs-assoma/it/applications/pump-case-studies/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-assoma/en/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/en/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-assoma/de/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/de/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-assoma/es/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/es/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-assoma/fr/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/fr/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-assoma/pt/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/pt/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-assoma/ru/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/ru/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-assoma/ar/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/ar/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-assoma/hi/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/hi/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-assoma/ja/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/ja/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-assoma/ko/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/ko/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://mis3085.github.io/docs-assoma/zh-tw/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/applications/pump-case-studies/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-assoma/it/abouts/company-milestones/"
+      href="https://mis3085.github.io/docs-assoma/it/applications/pump-case-studies/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-assoma/it/our-company/company-milestones/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-assoma/en/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-assoma/de/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-assoma/es/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-assoma/fr/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-assoma/pt/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-assoma/ru/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-assoma/ar/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-assoma/hi/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-assoma/ja/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-assoma/ko/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://mis3085.github.io/docs-assoma/zh-tw/our-company/company-milestones/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-assoma/it/our-company/company-milestones/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-assoma/it/news/green-and-environment/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-assoma/en/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-assoma/de/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-assoma/es/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-assoma/fr/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-assoma/pt/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-assoma/ru/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-assoma/ar/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-assoma/hi/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-assoma/ja/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-assoma/ko/news/green-and-environment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-assoma/it/news/green-and-environment/"
     />
   </url>
 </urlset>

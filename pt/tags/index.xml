@@ -10,21 +10,61 @@
     <atom:link href="https://mis3085.github.io/docs-assoma/pt/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Acionamento Magnético</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/acionamento-magn%C3%A9tico/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/acionamento-magn%C3%A9tico/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Acionistas</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/acionistas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/acionistas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes Internacionais</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/agentes-internacionais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/agentes-internacionais/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Altura Manométrica Total</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/altura-manom%C3%A9trica-total/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/altura-manom%C3%A9trica-total/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ambiente De Produção</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/ambiente-de-produ%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/ambiente-de-produ%C3%A7%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anúncios De Agentes</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/an%C3%BAncios-de-agentes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/an%C3%BAncios-de-agentes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aplicações</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/aplica%C3%A7%C3%B5es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/aplica%C3%A7%C3%B5es/</guid>
       <description></description>
       
     </item>
@@ -50,6 +90,16 @@
     </item>
     
     <item>
+      <title>Aquisição Sustentável</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/aquisi%C3%A7%C3%A3o-sustent%C3%A1vel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/aquisi%C3%A7%C3%A3o-sustent%C3%A1vel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Ásia</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/%C3%A1sia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,21 +120,21 @@
     </item>
     
     <item>
-      <title>Atualizações Corporativas</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/atualiza%C3%A7%C3%B5es-corporativas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/atualiza%C3%A7%C3%B5es-corporativas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Atualizações De Produtos</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/atualiza%C3%A7%C3%B5es-de-produtos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/atualiza%C3%A7%C3%B5es-de-produtos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Atualizações Do Setor</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/atualiza%C3%A7%C3%B5es-do-setor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/atualiza%C3%A7%C3%B5es-do-setor/</guid>
       <description></description>
       
     </item>
@@ -100,21 +150,31 @@
     </item>
     
     <item>
-      <title>Aviso De Feriado</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/aviso-de-feriado/</link>
+      <title>Automação</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/automa%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/aviso-de-feriado/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/automa%C3%A7%C3%A3o/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Aviso Para Agentes</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/aviso-para-agentes/</link>
+      <title>AVF</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/avf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/aviso-para-agentes/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/avf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Avisos</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/avisos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/avisos/</guid>
       <description></description>
       
     </item>
@@ -170,11 +230,21 @@
     </item>
     
     <item>
-      <title>Bombas De Acionamento Magnético</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/bombas-de-acionamento-magn%C3%A9tico/</link>
+      <title>Bombas De Plástico</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/bombas-de-pl%C3%A1stico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/bombas-de-acionamento-magn%C3%A9tico/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/bombas-de-pl%C3%A1stico/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bombas De Processo</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/bombas-de-processo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/bombas-de-processo/</guid>
       <description></description>
       
     </item>
@@ -200,16 +270,6 @@
     </item>
     
     <item>
-      <title>Bombas Plásticas</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/bombas-pl%C3%A1sticas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/bombas-pl%C3%A1sticas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Bombas Químicas</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/bombas-qu%C3%ADmicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -230,11 +290,11 @@
     </item>
     
     <item>
-      <title>Bombas Sem Vazamento</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/bombas-sem-vazamento/</link>
+      <title>Bombas Sem Selo</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/bombas-sem-selo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/bombas-sem-vazamento/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/bombas-sem-selo/</guid>
       <description></description>
       
     </item>
@@ -260,31 +320,11 @@
     </item>
     
     <item>
-      <title>Certificações ISO</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/certifica%C3%A7%C3%B5es-iso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/certifica%C3%A7%C3%B5es-iso/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>China</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/china/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/china/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Comentários</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/coment%C3%A1rios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/coment%C3%A1rios/</guid>
       <description></description>
       
     </item>
@@ -305,16 +345,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/comit%C3%AA-de-sal%C3%A1rios/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Compras Verdes</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/compras-verdes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/compras-verdes/</guid>
       <description></description>
       
     </item>
@@ -380,61 +410,31 @@
     </item>
     
     <item>
-      <title>Controle De Processos</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/controle-de-processos/</link>
+      <title>Controle De Processo</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/controle-de-processo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/controle-de-processos/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/controle-de-processo/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Cookies</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/cookies/</link>
+      <title>Cultura Da Empresa</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/cultura-da-empresa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/cookies/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/cultura-da-empresa/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Cultura Organizacional</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/cultura-organizacional/</link>
+      <title>D&amp;B Elite SME</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/db-elite-sme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/cultura-organizacional/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>D&amp;B Elite PME</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/db-elite-pme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/db-elite-pme/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Desenvolvimento De Equipe</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/desenvolvimento-de-equipe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/desenvolvimento-de-equipe/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Desenvolvimento De Produto</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/desenvolvimento-de-produto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/desenvolvimento-de-produto/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/db-elite-sme/</guid>
       <description></description>
       
     </item>
@@ -445,6 +445,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/desenvolvimento-de-produtos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Desenvolvimento Organizacional</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/desenvolvimento-organizacional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/desenvolvimento-organizacional/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Design De Produto</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/design-de-produto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/design-de-produto/</guid>
       <description></description>
       
     </item>
@@ -465,16 +485,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/distribui%C3%A7%C3%A3o-global/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Distribuidores</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/distribuidores/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/distribuidores/</guid>
       <description></description>
       
     </item>
@@ -510,11 +520,31 @@
     </item>
     
     <item>
+      <title>Eficiência De Custos</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/efici%C3%AAncia-de-custos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/efici%C3%AAncia-de-custos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Eficiência Energética</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/efici%C3%AAncia-energ%C3%A9tica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/efici%C3%AAncia-energ%C3%A9tica/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Eletrônica</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/eletr%C3%B4nica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/eletr%C3%B4nica/</guid>
       <description></description>
       
     </item>
@@ -550,6 +580,16 @@
     </item>
     
     <item>
+      <title>Energia Renovável</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/energia-renov%C3%A1vel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/energia-renov%C3%A1vel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Engajamento Comunitário</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/engajamento-comunit%C3%A1rio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -565,6 +605,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/engenharia-ambiental/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Equipamento Industrial</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/equipamento-industrial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/equipamento-industrial/</guid>
       <description></description>
       
     </item>
@@ -600,11 +650,11 @@
     </item>
     
     <item>
-      <title>Estudos De Caso</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/estudos-de-caso/</link>
+      <title>Estrutura Organizacional</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/estrutura-organizacional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/estudos-de-caso/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/estrutura-organizacional/</guid>
       <description></description>
       
     </item>
@@ -640,11 +690,11 @@
     </item>
     
     <item>
-      <title>Experiência Do Usuário</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/experi%C3%AAncia-do-usu%C3%A1rio/</link>
+      <title>Expansão Global</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/expans%C3%A3o-global/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/experi%C3%AAncia-do-usu%C3%A1rio/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/expans%C3%A3o-global/</guid>
       <description></description>
       
     </item>
@@ -670,31 +720,11 @@
     </item>
     
     <item>
-      <title>Fax</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/fax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/fax/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Filtração Industrial</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/filtra%C3%A7%C3%A3o-industrial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/filtra%C3%A7%C3%A3o-industrial/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Filtração Personalizada</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/filtra%C3%A7%C3%A3o-personalizada/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/filtra%C3%A7%C3%A3o-personalizada/</guid>
       <description></description>
       
     </item>
@@ -710,41 +740,41 @@
     </item>
     
     <item>
-      <title>Filtros Químicos</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/filtros-qu%C3%ADmicos/</link>
+      <title>Filtros Personalizados</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/filtros-personalizados/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/filtros-qu%C3%ADmicos/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/filtros-personalizados/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Filtros Químicos Com Bomba</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/filtros-qu%C3%ADmicos-com-bomba/</link>
+      <title>Filtros Plásticos</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/filtros-pl%C3%A1sticos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/filtros-qu%C3%ADmicos-com-bomba/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/filtros-pl%C3%A1sticos/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Fornecedores Locais</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/fornecedores-locais/</link>
+      <title>Força Axial</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/for%C3%A7a-axial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/fornecedores-locais/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/for%C3%A7a-axial/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Fornecimento Ético</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/fornecimento-%C3%A9tico/</link>
+      <title>Força Radial</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/for%C3%A7a-radial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/fornecimento-%C3%A9tico/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/for%C3%A7a-radial/</guid>
       <description></description>
       
     </item>
@@ -755,6 +785,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/fornecimento-respons%C3%A1vel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Geração De Energia</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/gera%C3%A7%C3%A3o-de-energia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/gera%C3%A7%C3%A3o-de-energia/</guid>
       <description></description>
       
     </item>
@@ -780,36 +820,6 @@
     </item>
     
     <item>
-      <title>Gestão De Fornecedores</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/gest%C3%A3o-de-fornecedores/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/gest%C3%A3o-de-fornecedores/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Gestão De Sites</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/gest%C3%A3o-de-sites/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/gest%C3%A3o-de-sites/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Google Tag Manager</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/google-tag-manager/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/google-tag-manager/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Governança Corporativa</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/governan%C3%A7a-corporativa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -830,11 +840,11 @@
     </item>
     
     <item>
-      <title>Histórico Da Empresa</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/hist%C3%B3rico-da-empresa/</link>
+      <title>Impacto Ambiental</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/impacto-ambiental/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/hist%C3%B3rico-da-empresa/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/impacto-ambiental/</guid>
       <description></description>
       
     </item>
@@ -890,6 +900,16 @@
     </item>
     
     <item>
+      <title>ISO 14001</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/iso-14001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/iso-14001/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>ISO 17025</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/iso-17025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -910,11 +930,61 @@
     </item>
     
     <item>
+      <title>ISO 9001</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/iso-9001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/iso-9001/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Longevidade Do Equipamento</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/longevidade-do-equipamento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/longevidade-do-equipamento/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Manuseio De Fluidos</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/manuseio-de-fluidos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/manuseio-de-fluidos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Manutenção</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/manuten%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/manuten%C3%A7%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Manutenção De Bombas</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/manuten%C3%A7%C3%A3o-de-bombas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/manuten%C3%A7%C3%A3o-de-bombas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Manutenção Preventiva</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/manuten%C3%A7%C3%A3o-preventiva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/manuten%C3%A7%C3%A3o-preventiva/</guid>
       <description></description>
       
     </item>
@@ -930,31 +1000,11 @@
     </item>
     
     <item>
-      <title>Medição De Audiência</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/medi%C3%A7%C3%A3o-de-audi%C3%AAncia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/medi%C3%A7%C3%A3o-de-audi%C3%AAncia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Meio Ambiente</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/meio-ambiente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/meio-ambiente/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Melhoria Contínua</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/melhoria-cont%C3%ADnua/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/melhoria-cont%C3%ADnua/</guid>
       <description></description>
       
     </item>
@@ -970,6 +1020,16 @@
     </item>
     
     <item>
+      <title>Monitoramento De Bombas</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/monitoramento-de-bombas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/monitoramento-de-bombas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Negócios</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/neg%C3%B3cios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -980,11 +1040,11 @@
     </item>
     
     <item>
-      <title>Networking</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/networking/</link>
+      <title>Notícias</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/not%C3%ADcias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/networking/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/not%C3%ADcias/</guid>
       <description></description>
       
     </item>
@@ -1000,21 +1060,41 @@
     </item>
     
     <item>
-      <title>Notícias Da Indústria</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/not%C3%ADcias-da-ind%C3%BAstria/</link>
+      <title>NPSH</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/npsh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/not%C3%ADcias-da-ind%C3%BAstria/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/npsh/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Parada De Produção</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/parada-de-produ%C3%A7%C3%A3o/</link>
+      <title>Óleo E Gás</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/%C3%B3leo-e-g%C3%A1s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/parada-de-produ%C3%A7%C3%A3o/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/%C3%B3leo-e-g%C3%A1s/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Operação De Bombas</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/opera%C3%A7%C3%A3o-de-bombas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/opera%C3%A7%C3%A3o-de-bombas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Origem Ética</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/origem-%C3%A9tica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/origem-%C3%A9tica/</guid>
       <description></description>
       
     </item>
@@ -1030,11 +1110,11 @@
     </item>
     
     <item>
-      <title>Parcerias</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/parcerias/</link>
+      <title>Partida</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/partida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/parcerias/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/partida/</guid>
       <description></description>
       
     </item>
@@ -1045,6 +1125,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/patentes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PCB</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/pcb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/pcb/</guid>
       <description></description>
       
     </item>
@@ -1070,21 +1160,21 @@
     </item>
     
     <item>
-      <title>Política Ambiental</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/pol%C3%ADtica-ambiental/</link>
+      <title>Placa De Circuito Impresso</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/placa-de-circuito-impresso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/pol%C3%ADtica-ambiental/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/placa-de-circuito-impresso/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Política De Substâncias Perigosas</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/pol%C3%ADtica-de-subst%C3%A2ncias-perigosas/</link>
+      <title>Política Ambiental</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/pol%C3%ADtica-ambiental/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/pol%C3%ADtica-de-subst%C3%A2ncias-perigosas/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/pol%C3%ADtica-ambiental/</guid>
       <description></description>
       
     </item>
@@ -1100,6 +1190,16 @@
     </item>
     
     <item>
+      <title>Priming</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/priming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/priming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Produção LEAN</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/produ%C3%A7%C3%A3o-lean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1110,11 +1210,31 @@
     </item>
     
     <item>
+      <title>Produtos</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/produtos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/produtos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Produtos Químicos Corrosivos</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/produtos-qu%C3%ADmicos-corrosivos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/produtos-qu%C3%ADmicos-corrosivos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projeto De Sistema</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/projeto-de-sistema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/projeto-de-sistema/</guid>
       <description></description>
       
     </item>
@@ -1150,16 +1270,6 @@
     </item>
     
     <item>
-      <title>Proteção De Bombas</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/prote%C3%A7%C3%A3o-de-bombas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/prote%C3%A7%C3%A3o-de-bombas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Protetor Contra Funcionamento a Seco</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/protetor-contra-funcionamento-a-seco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1170,21 +1280,21 @@
     </item>
     
     <item>
-      <title>Publicidade</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/publicidade/</link>
+      <title>QC080000</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/qc080000/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/publicidade/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/qc080000/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Reconhecimento De Produto</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/reconhecimento-de-produto/</link>
+      <title>Reconhecimento</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/reconhecimento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/reconhecimento-de-produto/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/reconhecimento/</guid>
       <description></description>
       
     </item>
@@ -1200,16 +1310,6 @@
     </item>
     
     <item>
-      <title>Redes Sociais</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/redes-sociais/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/redes-sociais/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Redução De Carbono</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/redu%C3%A7%C3%A3o-de-carbono/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1220,21 +1320,21 @@
     </item>
     
     <item>
-      <title>Resistência À Corrosão</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/resist%C3%AAncia-%C3%A0-corros%C3%A3o/</link>
+      <title>Relacionamento Com Fornecedores</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/relacionamento-com-fornecedores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/resist%C3%AAncia-%C3%A0-corros%C3%A3o/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/relacionamento-com-fornecedores/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Resistência Química</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/resist%C3%AAncia-qu%C3%ADmica/</link>
+      <title>Resistência À Corrosão</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/resist%C3%AAncia-%C3%A0-corros%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/resist%C3%AAncia-qu%C3%ADmica/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/resist%C3%AAncia-%C3%A0-corros%C3%A3o/</guid>
       <description></description>
       
     </item>
@@ -1260,21 +1360,21 @@
     </item>
     
     <item>
-      <title>Responsabilidade Social Corporativa</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/responsabilidade-social-corporativa/</link>
+      <title>Responsabilidade Social</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/responsabilidade-social/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/responsabilidade-social-corporativa/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/responsabilidade-social/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Revestimento De Fluoroplástico</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/revestimento-de-fluoropl%C3%A1stico/</link>
+      <title>Revestimento Fluoroplástico</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/revestimento-fluoropl%C3%A1stico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/revestimento-de-fluoropl%C3%A1stico/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/revestimento-fluoropl%C3%A1stico/</guid>
       <description></description>
       
     </item>
@@ -1290,6 +1390,16 @@
     </item>
     
     <item>
+      <title>Sala Limpa</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/sala-limpa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/sala-limpa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Segurança</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/seguran%C3%A7a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1300,11 +1410,31 @@
     </item>
     
     <item>
-      <title>Segurança Operacional</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/seguran%C3%A7a-operacional/</link>
+      <title>Segurança De Equipamentos</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/seguran%C3%A7a-de-equipamentos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/seguran%C3%A7a-operacional/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/seguran%C3%A7a-de-equipamentos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Segurança De Produtos</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/seguran%C3%A7a-de-produtos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/seguran%C3%A7a-de-produtos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Seleção De Bomba</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/sele%C3%A7%C3%A3o-de-bomba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/sele%C3%A7%C3%A3o-de-bomba/</guid>
       <description></description>
       
     </item>
@@ -1330,16 +1460,6 @@
     </item>
     
     <item>
-      <title>Serviços De Terceiros</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/servi%C3%A7os-de-terceiros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/servi%C3%A7os-de-terceiros/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Setor De Energia</title>
       <link>https://mis3085.github.io/docs-assoma/pt/tags/setor-de-energia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1350,11 +1470,11 @@
     </item>
     
     <item>
-      <title>Sistemas De Bombas</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/sistemas-de-bombas/</link>
+      <title>Sistema De Bomba</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/sistema-de-bomba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/sistemas-de-bombas/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/sistema-de-bomba/</guid>
       <description></description>
       
     </item>
@@ -1380,11 +1500,21 @@
     </item>
     
     <item>
-      <title>Soluções Personalizadas De Bombas</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/solu%C3%A7%C3%B5es-personalizadas-de-bombas/</link>
+      <title>Substâncias Perigosas</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/subst%C3%A2ncias-perigosas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/solu%C3%A7%C3%B5es-personalizadas-de-bombas/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/subst%C3%A2ncias-perigosas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Suporte</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/suporte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/suporte/</guid>
       <description></description>
       
     </item>
@@ -1395,16 +1525,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/sustentabilidade/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sustentabilidade Ambiental</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/sustentabilidade-ambiental/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/sustentabilidade-ambiental/</guid>
       <description></description>
       
     </item>
@@ -1460,11 +1580,11 @@
     </item>
     
     <item>
-      <title>Tecnologias De Rastreamento</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/tags/tecnologias-de-rastreamento/</link>
+      <title>Tecnologia Verde</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/tecnologia-verde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/tags/tecnologias-de-rastreamento/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/tecnologia-verde/</guid>
       <description></description>
       
     </item>
@@ -1475,6 +1595,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/telefone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Termos De Bomba</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/termos-de-bomba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/termos-de-bomba/</guid>
       <description></description>
       
     </item>
@@ -1525,6 +1655,46 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/tags/valor-ao-cliente/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vazão</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/vaz%C3%A3o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/vaz%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Velocidade Específica</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/velocidade-espec%C3%ADfica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/velocidade-espec%C3%ADfica/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vibração</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/vibra%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/vibra%C3%A7%C3%A3o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Viscosidade</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/tags/viscosidade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/pt/tags/viscosidade/</guid>
       <description></description>
       
     </item>

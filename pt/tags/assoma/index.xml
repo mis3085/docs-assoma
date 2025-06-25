@@ -10,36 +10,17 @@
     <atom:link href="https://mis3085.github.io/docs-assoma/pt/tags/assoma/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Visão Geral da Localização e Informações de Contato da Empresa</title>
+      <title>Localização da Empresa e Canais de Comunicação</title>
       <link>https://mis3085.github.io/docs-assoma/pt/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/contact/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Conecte-se com a ASSOMA 
-    &lt;div id=&#34;conecte-se-com-a-assoma&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Endereço da Empresa e Informações de Contato 
+    &lt;div id=&#34;endereço-da-empresa-e-informações-de-contato&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#conecte-se-com-a-assoma&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;p&gt;A ASSOMA recebe suas perguntas e feedbacks. Para quaisquer dúvidas relacionadas aos nossos produtos, serviços ou empresa, por favor utilize as informações de contato abaixo para falar diretamente com nossa equipe.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Otimização das Operações da Indústria Química com Soluções de Bombas Personalizadas</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/applications/chemical-industry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/pt/applications/chemical-industry/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Otimização das Operações da Indústria Química com Soluções de Bombas Personalizadas 
-    &lt;div id=&#34;otimização-das-operações-da-indústria-química-com-soluções-de-bombas-personalizadas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#otimiza%c3%a7%c3%a3o-das-opera%c3%a7%c3%b5es-da-ind%c3%bastria-qu%c3%admica-com-solu%c3%a7%c3%b5es-de-bombas-personalizadas&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#endere%c3%a7o-da-empresa-e-informa%c3%a7%c3%b5es-de-contato&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -51,7 +32,7 @@
 
 
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Banner de aplicação na indústria química&#34; src=&#34;https://www.assoma.com/storage/media/application/chemical_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Banner de Contato&#34; src=&#34;https://www.assoma.com/storage/media/contact/contact_banner.jpg&#34;&gt;
 
   
 &lt;/figure&gt;
@@ -60,52 +41,40 @@
     </item>
     
     <item>
-      <title>Evolução da Inovação e Conquistas na Tecnologia de Bombas</title>
-      <link>https://mis3085.github.io/docs-assoma/pt/abouts/company-milestones/</link>
+      <title>Encontros da Indústria e Destaques de Eventos</title>
+      <link>https://mis3085.github.io/docs-assoma/pt/news/exhibitions-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/pt/abouts/company-milestones/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Marcos na Jornada da ASSOMA 
-    &lt;div id=&#34;marcos-na-jornada-da-assoma&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <guid>https://mis3085.github.io/docs-assoma/pt/news/exhibitions-events/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Encontros da Indústria e Destaques de Eventos 
+    &lt;div id=&#34;encontros-da-indústria-e-destaques-de-eventos&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#marcos-na-jornada-da-assoma&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#encontros-da-ind%c3%bastria-e-destaques-de-eventos&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;
-
-
-
-
-
-
-&lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;marcos_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/milestones/milestones_banner.jpg&#34;&gt;
-
-  
-&lt;/figure&gt;
-&lt;/p&gt;</description>
+&lt;p&gt;Mantenha-se informado sobre as últimas exposições e eventos onde a ASSOMA está presente. Essas ocasiões oferecem oportunidades valiosas para descobrir nossos avanços mais recentes, conectar-se com colegas da indústria e obter insights sobre o cenário em evolução das bombas químicas e tecnologias relacionadas.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Visão Geral da Rede Global de Vendas e Serviços</title>
+      <title>Presença Global e Pontos de Contato da ASSOMA</title>
       <link>https://mis3085.github.io/docs-assoma/pt/contact/locations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/pt/contact/locations/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Presença Global e Diretório de Contatos 
-    &lt;div id=&#34;presença-global-e-diretório-de-contatos&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Rede Internacional de Vendas e Serviços da ASSOMA 
+    &lt;div id=&#34;rede-internacional-de-vendas-e-serviços-da-assoma&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#presen%c3%a7a-global-e-diret%c3%b3rio-de-contatos&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#rede-internacional-de-vendas-e-servi%c3%a7os-da-assoma&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;A ASSOMA mantém uma robusta rede internacional de vendas e serviços, garantindo acessibilidade e suporte para clientes em todo o mundo. Abaixo está uma listagem detalhada de nossos escritórios regionais, distribuidores e parceiros, organizados por região para sua conveniência.&lt;/p&gt;</description>
+&lt;p&gt;Explore nossa rede abrangente de locais de vendas e serviços, garantindo suporte confiável e acessibilidade para clientes em todo o mundo. Abaixo você encontrará informações detalhadas de contato para nossos principais escritórios, parceiros regionais e representantes autorizados.&lt;/p&gt;</description>
       
     </item>
     

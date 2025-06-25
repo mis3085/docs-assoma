@@ -10,11 +10,11 @@
     <atom:link href="https://mis3085.github.io/docs-assoma/hi/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>AMF सीरीज</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/amf-%E0%A4%B8%E0%A5%80%E0%A4%B0%E0%A5%80%E0%A4%9C/</link>
+      <title>AMF श्रृंखला</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/amf-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%83%E0%A4%82%E0%A4%96%E0%A4%B2%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/amf-%E0%A4%B8%E0%A5%80%E0%A4%B0%E0%A5%80%E0%A4%9C/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/amf-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%83%E0%A4%82%E0%A4%96%E0%A4%B2%E0%A4%BE/</guid>
       <description></description>
       
     </item>
@@ -30,21 +30,31 @@
     </item>
     
     <item>
-      <title>D&amp;B एलीट SME</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/db-%E0%A4%8F%E0%A4%B2%E0%A5%80%E0%A4%9F-sme/</link>
+      <title>AVF</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/avf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/db-%E0%A4%8F%E0%A4%B2%E0%A5%80%E0%A4%9F-sme/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/avf/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Google Tag Manager</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/google-tag-manager/</link>
+      <title>D&amp;B Elite SME</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/db-elite-sme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/google-tag-manager/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/db-elite-sme/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ISO 14001</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/iso-14001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/iso-14001/</guid>
       <description></description>
       
     </item>
@@ -70,11 +80,11 @@
     </item>
     
     <item>
-      <title>ISO प्रमाणपत्र</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/iso-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0/</link>
+      <title>ISO 9001</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/iso-9001/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/iso-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/iso-9001/</guid>
       <description></description>
       
     </item>
@@ -90,11 +100,41 @@
     </item>
     
     <item>
+      <title>NPSH</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/npsh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/npsh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PCB</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/pcb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/pcb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>PCB उद्योग</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/pcb-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/pcb-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>QC080000</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/qc080000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/qc080000/</guid>
       <description></description>
       
     </item>
@@ -110,11 +150,51 @@
     </item>
     
     <item>
+      <title>Taiwan Excellence</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/taiwan-excellence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/taiwan-excellence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Taoyuan</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/taoyuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/taoyuan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>TCIA</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/tcia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/tcia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>अंतरराष्ट्रीय एजेंट</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>अक्षीय बल</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80%E0%A4%AF-%E0%A4%AC%E0%A4%B2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80%E0%A4%AF-%E0%A4%AC%E0%A4%B2/</guid>
       <description></description>
       
     </item>
@@ -130,11 +210,11 @@
     </item>
     
     <item>
-      <title>अनुकूलित पंप समाधान</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A4%BF%E0%A4%A4-%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8/</link>
+      <title>अनुकूलित समाधान</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A4%BF%E0%A4%A4-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A4%BF%E0%A4%A4-%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A4%BF%E0%A4%A4-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8/</guid>
       <description></description>
       
     </item>
@@ -145,6 +225,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>अनुप्रयोग</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97/</guid>
       <description></description>
       
     </item>
@@ -170,11 +260,21 @@
     </item>
     
     <item>
-      <title>आपूर्तिकर्ता प्रबंधन</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8/</link>
+      <title>आपूर्तिकर्ता संबंध</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>इलेक्ट्रॉनिक्स</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8/</guid>
       <description></description>
       
     </item>
@@ -190,6 +290,16 @@
     </item>
     
     <item>
+      <title>उत्पाद</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>उत्पाद अपडेट</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%85%E0%A4%AA%E0%A4%A1%E0%A5%87%E0%A4%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -200,21 +310,21 @@
     </item>
     
     <item>
-      <title>उत्पाद नवाचार</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0/</link>
+      <title>उत्पाद डिजाइन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%87%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%87%E0%A4%A8/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>उत्पाद मान्यता</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BE/</link>
+      <title>उत्पाद नवप्रवर्तन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%A8%E0%A4%B5%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%A8%E0%A4%B5%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8/</guid>
       <description></description>
       
     </item>
@@ -230,11 +340,21 @@
     </item>
     
     <item>
-      <title>उत्पादन डाउनटाइम</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8-%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE/</link>
+      <title>उत्पाद सुरक्षा</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8-%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>उत्पादन वातावरण</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8-%E0%A4%B5%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8-%E0%A4%B5%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3/</guid>
       <description></description>
       
     </item>
@@ -250,21 +370,31 @@
     </item>
     
     <item>
-      <title>उद्योग समाचार</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0/</link>
+      <title>उद्योग अपडेट</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%85%E0%A4%AA%E0%A4%A1%E0%A5%87%E0%A4%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%85%E0%A4%AA%E0%A4%A1%E0%A5%87%E0%A4%9F/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>उपयोगकर्ता अनुभव</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AD%E0%A4%B5/</link>
+      <title>उपकरण दीर्घायु</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%AA%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%A6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%98%E0%A4%BE%E0%A4%AF%E0%A5%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AD%E0%A4%B5/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%AA%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%A6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%98%E0%A4%BE%E0%A4%AF%E0%A5%81/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>उपकरण सुरक्षा</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%AA%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%89%E0%A4%AA%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/</guid>
       <description></description>
       
     </item>
@@ -320,11 +450,11 @@
     </item>
     
     <item>
-      <title>एजेंट सूचना</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE/</link>
+      <title>एजेंट घोषणाएं</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%98%E0%A5%8B%E0%A4%B7%E0%A4%A3%E0%A4%BE%E0%A4%8F%E0%A4%82/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%98%E0%A5%8B%E0%A4%B7%E0%A4%A3%E0%A4%BE%E0%A4%8F%E0%A4%82/</guid>
       <description></description>
       
     </item>
@@ -410,11 +540,31 @@
     </item>
     
     <item>
-      <title>कंपनी इतिहास</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80-%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8/</link>
+      <title>कंपन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80-%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>कंपनी का इतिहास</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>कंपनी संस्कृति</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF/</guid>
       <description></description>
       
     </item>
@@ -440,21 +590,11 @@
     </item>
     
     <item>
-      <title>कर्मचारी विकास</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/</link>
+      <title>कस्टम फिल्टर</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>कस्टम फिल्ट्रेशन</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0/</guid>
       <description></description>
       
     </item>
@@ -500,21 +640,11 @@
     </item>
     
     <item>
-      <title>कुकीज़</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%81%E0%A4%95%E0%A5%80%E0%A4%9C%E0%A4%BC/</link>
+      <title>कुल हेड</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%81%E0%A4%B2-%E0%A4%B9%E0%A5%87%E0%A4%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%81%E0%A4%95%E0%A5%80%E0%A4%9C%E0%A4%BC/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>केस स्टडीज</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%87%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%A1%E0%A5%80%E0%A4%9C/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%87%E0%A4%B8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%A1%E0%A5%80%E0%A4%9C/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%81%E0%A4%B2-%E0%A4%B9%E0%A5%87%E0%A4%A1/</guid>
       <description></description>
       
     </item>
@@ -530,26 +660,6 @@
     </item>
     
     <item>
-      <title>कॉर्पोरेट अपडेट</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%85%E0%A4%AA%E0%A4%A1%E0%A5%87%E0%A4%9F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%85%E0%A4%AA%E0%A4%A1%E0%A5%87%E0%A4%9F/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>कॉर्पोरेट गवर्नेंस</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%82%E0%A4%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%82%E0%A4%B8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>कॉर्पोरेट जिम्मेदारी</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -560,31 +670,41 @@
     </item>
     
     <item>
-      <title>कॉर्पोरेट सामाजिक जिम्मेदारी</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
+      <title>कॉर्पोरेट शासन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>खतरनाक पदार्थ नीति</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%96%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%95-%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5-%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF/</link>
+      <title>क्लीनरूम</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%B0%E0%A5%82%E0%A4%AE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%96%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%95-%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5-%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%B0%E0%A5%82%E0%A4%AE/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>खरीदारी</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
+      <title>खतरनाक पदार्थ</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%96%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%95-%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%96%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%95-%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>खरीद</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6/</guid>
       <description></description>
       
     </item>
@@ -610,21 +730,21 @@
     </item>
     
     <item>
-      <title>चीन</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9A%E0%A5%80%E0%A4%A8/</link>
+      <title>चिपचिपाहट</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9A%E0%A4%BF%E0%A4%AA%E0%A4%9A%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%B9%E0%A4%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9A%E0%A5%80%E0%A4%A8/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9A%E0%A4%BF%E0%A4%AA%E0%A4%9A%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%B9%E0%A4%9F/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>चुंबकीय ड्राइव पंप</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9A%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%95%E0%A5%80%E0%A4%AF-%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5-%E0%A4%AA%E0%A4%82%E0%A4%AA/</link>
+      <title>चीन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9A%E0%A5%80%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9A%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%95%E0%A5%80%E0%A4%AF-%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5-%E0%A4%AA%E0%A4%82%E0%A4%AA/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9A%E0%A5%80%E0%A4%A8/</guid>
       <description></description>
       
     </item>
@@ -645,16 +765,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9B%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>छुट्टी सूचना</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9B%E0%A5%81%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80-%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9B%E0%A5%81%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80-%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE/</guid>
       <description></description>
       
     </item>
@@ -700,31 +810,21 @@
     </item>
     
     <item>
-      <title>टिप्पणियाँ</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9F%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%A3%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9F%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%A3%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ट्रैकिंग तकनीकें</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%87%E0%A4%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%87%E0%A4%82/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>ड्राई रन प्रोटेक्टर</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%88-%E0%A4%B0%E0%A4%A8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%88-%E0%A4%B0%E0%A4%A8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>तरल पदार्थ प्रबंधन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A4%B0%E0%A4%B2-%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A4%B0%E0%A4%B2-%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8/</guid>
       <description></description>
       
     </item>
@@ -740,31 +840,11 @@
     </item>
     
     <item>
-      <title>ताइवान उत्कृष्टता</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A4%BE%E0%A4%A8-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE/</link>
+      <title>तेल और गैस</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A5%87%E0%A4%B2-%E0%A4%94%E0%A4%B0-%E0%A4%97%E0%A5%88%E0%A4%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A4%BE%E0%A4%A8-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ताओयुआन</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%AF%E0%A5%81%E0%A4%86%E0%A4%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%AF%E0%A5%81%E0%A4%86%E0%A4%A8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>तृतीय-पक्ष सेवाएं</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%82/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A4%E0%A5%87%E0%A4%B2-%E0%A4%94%E0%A4%B0-%E0%A4%97%E0%A5%88%E0%A4%B8/</guid>
       <description></description>
       
     </item>
@@ -780,21 +860,21 @@
     </item>
     
     <item>
-      <title>दर्शक मापन</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%95-%E0%A4%AE%E0%A4%BE%E0%A4%AA%E0%A4%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%95-%E0%A4%AE%E0%A4%BE%E0%A4%AA%E0%A4%A8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>नवाचार</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>नवीकरणीय ऊर्जा</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE/</guid>
       <description></description>
       
     </item>
@@ -810,16 +890,6 @@
     </item>
     
     <item>
-      <title>निरंतर सुधार</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%82%E0%A4%A4%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%82%E0%A4%A4%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>निर्माण</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -830,11 +900,11 @@
     </item>
     
     <item>
-      <title>नेटवर्किंग</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97/</link>
+      <title>निवारक रखरखाव</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%95-%E0%A4%B0%E0%A4%96%E0%A4%B0%E0%A4%96%E0%A4%BE%E0%A4%B5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%95-%E0%A4%B0%E0%A4%96%E0%A4%B0%E0%A4%96%E0%A4%BE%E0%A4%B5/</guid>
       <description></description>
       
     </item>
@@ -860,11 +930,31 @@
     </item>
     
     <item>
+      <title>पंप चयन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%9A%E0%A4%AF%E0%A4%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%9A%E0%A4%AF%E0%A4%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>पंप तकनीक</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>पंप निगरानी</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%A8%E0%A4%BF%E0%A4%97%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%A8%E0%A4%BF%E0%A4%97%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80/</guid>
       <description></description>
       
     </item>
@@ -880,6 +970,16 @@
     </item>
     
     <item>
+      <title>पंप रखरखाव</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B0%E0%A4%96%E0%A4%B0%E0%A4%96%E0%A4%BE%E0%A4%B5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B0%E0%A4%96%E0%A4%B0%E0%A4%96%E0%A4%BE%E0%A4%B5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>पंप विश्वसनीयता</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B8%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -890,11 +990,21 @@
     </item>
     
     <item>
-      <title>पंप संरक्षण</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3/</link>
+      <title>पंप शब्दावली</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>पंप संचालन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8/</guid>
       <description></description>
       
     </item>
@@ -980,11 +1090,11 @@
     </item>
     
     <item>
-      <title>पर्यावरणीय स्थिरता</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%B0%E0%A4%A4%E0%A4%BE/</link>
+      <title>पर्यावरणीय प्रभाव</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%B0%E0%A4%A4%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5/</guid>
       <description></description>
       
     </item>
@@ -1020,11 +1130,11 @@
     </item>
     
     <item>
-      <title>प्रदर्शनियां</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82/</link>
+      <title>प्रक्रिया पंप</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%AA%E0%A4%82%E0%A4%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%AA%E0%A4%82%E0%A4%AA/</guid>
       <description></description>
       
     </item>
@@ -1070,11 +1180,41 @@
     </item>
     
     <item>
+      <title>प्रवाह दर</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9-%E0%A4%A6%E0%A4%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9-%E0%A4%A6%E0%A4%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>प्रशिक्षण</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>प्राइमिंग</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%AE%E0%A4%BF%E0%A4%82%E0%A4%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%AE%E0%A4%BF%E0%A4%82%E0%A4%97/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>प्रिंटेड सर्किट बोर्ड</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%9F-%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%9F-%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%A1/</guid>
       <description></description>
       
     </item>
@@ -1090,11 +1230,11 @@
     </item>
     
     <item>
-      <title>फैक्स</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AB%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B8/</link>
+      <title>प्लास्टिक फिल्टर</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AB%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B8/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0/</guid>
       <description></description>
       
     </item>
@@ -1120,16 +1260,6 @@
     </item>
     
     <item>
-      <title>बिक्री नेटवर्क</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AC%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AC%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>बौद्धिक संपदा</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AC%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%A6%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1150,21 +1280,21 @@
     </item>
     
     <item>
-      <title>मील के पत्थर</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A5%80%E0%A4%B2-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A5%E0%A4%B0/</link>
+      <title>महत्वपूर्ण उपलब्धियाँ</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%89%E0%A4%AA%E0%A4%B2%E0%A4%AC%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A5%80%E0%A4%B2-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A5%E0%A4%B0/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%89%E0%A4%AA%E0%A4%B2%E0%A4%AC%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>मैग्नेटिक ड्राइव</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A5%88%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5/</link>
+      <title>मान्यता</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A5%88%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BE/</guid>
       <description></description>
       
     </item>
@@ -1175,6 +1305,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A5%88%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5-%E0%A4%AA%E0%A4%82%E0%A4%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>मैग्नेटिक पंप</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A5%88%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%82%E0%A4%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%AE%E0%A5%88%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%82%E0%A4%AA/</guid>
       <description></description>
       
     </item>
@@ -1230,46 +1370,6 @@
     </item>
     
     <item>
-      <title>रासायनिक पंप फिल्टर</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%82%E0%A4%AA-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>रासायनिक प्रतिरोध</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%A7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%A7/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>रासायनिक फिल्टर</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>रासायनिक फिल्ट्रेशन</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>रासायनिक स्थानांतरण</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1290,6 +1390,16 @@
     </item>
     
     <item>
+      <title>रेडियल बल</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%B2-%E0%A4%AC%E0%A4%B2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%B2-%E0%A4%AC%E0%A4%B2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>लाइन वाले पंप</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8-%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87-%E0%A4%AA%E0%A4%82%E0%A4%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1300,31 +1410,31 @@
     </item>
     
     <item>
-      <title>लीक-फ्री पंप</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B2%E0%A5%80%E0%A4%95-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%AA%E0%A4%82%E0%A4%AA/</link>
+      <title>लागत दक्षता</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%A4-%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B2%E0%A5%80%E0%A4%95-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%AA%E0%A4%82%E0%A4%AA/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%A4-%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>विज्ञापन</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%AA%E0%A4%A8/</link>
+      <title>विद्युत उत्पादन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%AA%E0%A4%A8/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>वितरक</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%95/</link>
+      <title>विशिष्ट गति</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F-%E0%A4%97%E0%A4%A4%E0%A4%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%95/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F-%E0%A4%97%E0%A4%A4%E0%A4%BF/</guid>
       <description></description>
       
     </item>
@@ -1335,16 +1445,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%87%E0%A4%A4%E0%A4%A8-%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>वेबसाइट प्रबंधन</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8/</guid>
       <description></description>
       
     </item>
@@ -1370,21 +1470,31 @@
     </item>
     
     <item>
-      <title>व्यवसाय नैतिकता</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF-%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%A4%E0%A4%BE/</link>
+      <title>वैश्विक विस्तार</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF-%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%A4%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B0/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>व्यापार</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0/</link>
+      <title>व्यवसाय</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>व्यावसायिक नैतिकता</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%A4%E0%A4%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%A4%E0%A4%BE/</guid>
       <description></description>
       
     </item>
@@ -1420,21 +1530,21 @@
     </item>
     
     <item>
-      <title>संगठनात्मक संस्कृति</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF/</link>
+      <title>संगठनात्मक विकास</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>संचालन सुरक्षा</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/</link>
+      <title>संगठनात्मक संरचना</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%9A%E0%A4%A8%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%9A%E0%A4%A8%E0%A4%BE/</guid>
       <description></description>
       
     </item>
@@ -1460,21 +1570,31 @@
     </item>
     
     <item>
-      <title>साझेदारी</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%9D%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
+      <title>समर्थन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%9D%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>सामाजिक नेटवर्क</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</link>
+      <title>समाचार</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>सामाजिक जिम्मेदारी</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</guid>
       <description></description>
       
     </item>
@@ -1490,11 +1610,31 @@
     </item>
     
     <item>
+      <title>सिस्टम डिजाइन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%87%E0%A4%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%87%E0%A4%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>सिस्टम विश्वसनीयता</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B8%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B8%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>सीललेस पंप</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%80%E0%A4%B2%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%AA%E0%A4%82%E0%A4%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%80%E0%A4%B2%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%AA%E0%A4%82%E0%A4%AA/</guid>
       <description></description>
       
     </item>
@@ -1510,6 +1650,26 @@
     </item>
     
     <item>
+      <title>सूचनाएं</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>सेल्स नेटवर्क</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%B8-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%B8-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>सेवा और समर्थन</title>
       <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1520,11 +1680,11 @@
     </item>
     
     <item>
-      <title>स्थानीय आपूर्तिकर्ता</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A5%80%E0%A4%AF-%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE/</link>
+      <title>स्टार्टअप</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%85%E0%A4%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A5%80%E0%A4%AF-%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%85%E0%A4%AA/</guid>
       <description></description>
       
     </item>
@@ -1540,11 +1700,31 @@
     </item>
     
     <item>
-      <title>हरित खरीदारी</title>
-      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4-%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
+      <title>स्वचालन</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4-%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</guid>
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>हरित खरीद</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4-%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4-%E0%A4%96%E0%A4%B0%E0%A5%80%E0%A4%A6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>हरित प्रौद्योगिकी</title>
+      <link>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-assoma/hi/tags/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95%E0%A5%80/</guid>
       <description></description>
       
     </item>

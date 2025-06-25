@@ -10,153 +10,33 @@
     <atom:link href="https://mis3085.github.io/docs-assoma/ko/tags/%EA%B5%90%EC%9C%A1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>펌프 솔루션 및 자료에 대한 종합 개요</title>
-      <link>https://mis3085.github.io/docs-assoma/ko/products/</link>
+      <title>펌프 시스템 선택을 위한 기본 고려사항</title>
+      <link>https://mis3085.github.io/docs-assoma/ko/news/basics-training-of-a-pump-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-assoma/ko/products/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;펌프 보호 및 여과 솔루션 
-    &lt;div id=&#34;펌프-보호-및-여과-솔루션&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <guid>https://mis3085.github.io/docs-assoma/ko/news/basics-training-of-a-pump-system/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;펌프 시스템 선택을 위한 기본 고려사항 
+    &lt;div id=&#34;펌프-시스템-선택을-위한-기본-고려사항&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%8e%8c%ed%94%84-%eb%b3%b4%ed%98%b8-%eb%b0%8f-%ec%97%ac%ea%b3%bc-%ec%86%94%eb%a3%a8%ec%85%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%84%a0%ed%83%9d%ec%9d%84-%ec%9c%84%ed%95%9c-%ea%b8%b0%eb%b3%b8-%ea%b3%a0%eb%a0%a4%ec%82%ac%ed%95%ad&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/product-cate-first/pump-protector-monitor&#34;
-    target=&#34;_blank&#34;
-  &gt;드라이 런 프로텍터 및 펌프 프로텍터 모니터&lt;/a&gt;
-: 드라이 런 및 기타 운영 문제로 인한 손상을 방지하기 위해 설계된 고급 모니터링 솔루션으로 펌프를 보호하세요.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/product-cate-first/chemical-pump-filters&#34;
-    target=&#34;_blank&#34;
-  &gt;펌프용 화학 필터&lt;/a&gt;
-: 펌프 적용에 맞춘 통합 여과 시스템으로 화학 공정의 무결성을 향상시키세요.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;지식 베이스 및 학습 자료 
-    &lt;div id=&#34;지식-베이스-및-학습-자료&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%a7%80%ec%8b%9d-%eb%b2%a0%ec%9d%b4%ec%8a%a4-%eb%b0%8f-%ed%95%99%ec%8a%b5-%ec%9e%90%eb%a3%8c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/articles&#34;
-    target=&#34;_blank&#34;
-  &gt;기사&lt;/a&gt;
-: 펌프 및 유체 처리 시스템과 관련된 다양한 주제를 다루는 포괄적인 기사 라이브러리에 접근하세요.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/article-cate-first/basics-training-of-a-pump-system&#34;
-    target=&#34;_blank&#34;
-  &gt;교육&lt;/a&gt;
-: 초보자와 지식을 새롭게 하고자 하는 전문가 모두에게 적합한 펌프 시스템 기초에 중점을 둔 기본 교육 모듈입니다.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/article-cate-first/pump-system-maintenance&#34;
-    target=&#34;_blank&#34;
-  &gt;유지보수&lt;/a&gt;
-: 장기적인 신뢰성과 성능을 보장하기 위한 펌프 시스템 유지보수에 관한 실용적인 지침과 모범 사례입니다.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/article-cate-first/pump-case-studies&#34;
-    target=&#34;_blank&#34;
-  &gt;사례 연구&lt;/a&gt;
-: 다양한 산업 분야에서 효과적인 펌프 솔루션을 보여주는 실제 사례와 성공 스토리입니다.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/article-cate-first/pump-knowledge&#34;
-    target=&#34;_blank&#34;
-  &gt;펌프 지식&lt;/a&gt;
-: 펌프 선택, 운전 및 문제 해결에 관한 심층 기술 통찰과 전문가 조언입니다.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/article-cate-first/green-and-environment&#34;
-    target=&#34;_blank&#34;
-  &gt;녹색 및 환경&lt;/a&gt;
-: 지속 가능한 펌프 운전과 환경 보호를 위한 이니셔티브와 전략을 탐구하세요.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/article-cate-first/pump-operation&#34;
-    target=&#34;_blank&#34;
-  &gt;펌프 운전&lt;/a&gt;
-: 펌프 성능과 효율성을 최적화하기 위한 상세한 운전 지침입니다.&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;회사 및 지원 정보 
-    &lt;div id=&#34;회사-및-지원-정보&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%9a%8c%ec%82%ac-%eb%b0%8f-%ec%a7%80%ec%9b%90-%ec%a0%95%eb%b3%b4&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/contact&#34;
-    target=&#34;_blank&#34;
-  &gt;문의하기&lt;/a&gt;
-: 제품 문의, 기술 지원 또는 일반 지원을 위해 연락하세요.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/locations&#34;
-    target=&#34;_blank&#34;
-  &gt;판매 네트워크&lt;/a&gt;
-: 귀하 지역의 공인 대리점 및 파트너를 찾으세요.&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;회사 소개 
-    &lt;div id=&#34;회사-소개&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%9a%8c%ec%82%ac-%ec%86%8c%ea%b0%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/about/our-company&#34;
-    target=&#34;_blank&#34;
-  &gt;회사 소개&lt;/a&gt;
-: 회사의 역사, 사명 및 가치를 알아보세요.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/about/corporate-governance&#34;
-    target=&#34;_blank&#34;
-  &gt;기업 지배구조&lt;/a&gt;
-: 기업 책임과 윤리적 행동을 이끄는 원칙을 이해하세요.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/about/policies&#34;
-    target=&#34;_blank&#34;
-  &gt;정책&lt;/a&gt;
-: 품질, 안전 및 준수와 관련된 회사 정책을 검토하세요.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/about/our-brand&#34;
-    target=&#34;_blank&#34;
-  &gt;브랜드 소개&lt;/a&gt;
-: 브랜드의 정체성과 혁신에 대한 약속을 발견하세요.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/about/green-assoma&#34;
-    target=&#34;_blank&#34;
-  &gt;그린 Assoma&lt;/a&gt;
-: 환경 보호와 지속 가능성에 중점을 둔 이니셔티브입니다.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/about/corporate-responsibility&#34;
-    target=&#34;_blank&#34;
-  &gt;기업 책임&lt;/a&gt;
-: 사회적 및 환경적 책임에 대한 회사의 접근 방식입니다.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/about/purchasing&#34;
-    target=&#34;_blank&#34;
-  &gt;구매&lt;/a&gt;
-: 공급업체 및 조달 파트너를 위한 정보입니다.&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;https://www.assoma.com/en/about/company-milestones&#34;
-    target=&#34;_blank&#34;
-  &gt;회사 주요 이정표&lt;/a&gt;
-: 회사 발전의 주요 성과와 이정표입니다.&lt;/li&gt;
-&lt;/ul&gt;</description>
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;articles_banner&#34; src=&#34;https://www.assoma.com/storage/media/articles/articles_banner.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;</description>
       
     </item>
     

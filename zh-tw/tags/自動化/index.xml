@@ -10,21 +10,21 @@
     <atom:link href="https://mis3085.github.io/docs-assoma/zh-tw/tags/%E8%87%AA%E5%8B%95%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>電子設備核心連結與現代PCB產業挑戰</title>
+      <title>現代電子製造中的PCB產業挑戰與解決方案</title>
       <link>https://mis3085.github.io/docs-assoma/zh-tw/applications/pcb-industry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-assoma/zh-tw/applications/pcb-industry/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;電子設備的核心連結：PCB的角色 
-    &lt;div id=&#34;電子設備的核心連結pcb的角色&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;PCB產業在電子製造中的關鍵角色 
+    &lt;div id=&#34;pcb產業在電子製造中的關鍵角色&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9b%bb%e5%ad%90%e8%a8%ad%e5%82%99%e7%9a%84%e6%a0%b8%e5%bf%83%e9%80%a3%e7%b5%90pcb%e7%9a%84%e8%a7%92%e8%89%b2&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pcb%e7%94%a2%e6%a5%ad%e5%9c%a8%e9%9b%bb%e5%ad%90%e8%a3%bd%e9%80%a0%e4%b8%ad%e7%9a%84%e9%97%9c%e9%8d%b5%e8%a7%92%e8%89%b2&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;印刷電路板（PCB）是現代所有電子設備不可或缺的組件。以智慧型手機為例，顯示螢幕、電池、SIM卡、microSD卡槽、觸控感應晶片、喇叭、攝影鏡頭與各類感測器等，這些元件皆需透過PCB連接至處理器單元（如多核CPU與GPU），才能協同運作。PCB正是將這些元件整合並確保其協同運作的關鍵平台。&lt;/p&gt;</description>
+&lt;p&gt;印刷電路板（PCB）是現代所有電子設備不可或缺的核心組件。以智慧型手機為例，顯示螢幕、電池、SIM卡、microSD卡槽、觸控感應晶片、攝影鏡頭、喇叭及各種感測器等元件，皆需透過PCB進行連接，才能與處理器單元（如多核CPU與GPU）協同運作。PCB的存在，使這些元件能夠高效整合，實現複雜的電子功能。&lt;/p&gt;</description>
       
     </item>
     
