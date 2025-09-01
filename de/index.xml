@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#neueste-highlights-von-assoma&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#neueste-highlights-von-assoma&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#entwickelter-schutz-ausgekleidete-pumpen-f%c3%bcr-korrosive-und-gef%c3%a4hrliche-chemikalien&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#entwickelter-schutz-ausgekleidete-pumpen-f%c3%bcr-korrosive-und-gef%c3%a4hrliche-chemikalien&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -58,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#branchentreffen-und-veranstaltungs-highlights&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#branchentreffen-und-veranstaltungs-highlights&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -77,7 +80,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#feier-der-branchenanerkennung-und-produktexzellenz&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#feier-der-branchenanerkennung-und-produktexzellenz&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -96,7 +100,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#zuverl%c3%a4ssige-filtration-f%c3%bcr-anspruchsvolle-chemische-anwendungen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#zuverl%c3%a4ssige-filtration-f%c3%bcr-anspruchsvolle-chemische-anwendungen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -115,7 +120,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#ma%c3%9fgeschneiderte-pumpenl%c3%b6sungen-f%c3%bcr-komplexe-anforderungen-der-chemischen-industrie&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ma%c3%9fgeschneiderte-pumpenl%c3%b6sungen-f%c3%bcr-komplexe-anforderungen-der-chemischen-industrie&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -125,9 +131,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Anwendungen in der chemischen Industrie&#34; src=&#34;https://www.assoma.com/storage/media/application/chemical_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Anwendungen in der chemischen Industrie&#34; src=&#34;https://www.assoma.com/storage/media/application/chemical_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -146,7 +151,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#vertrauen-und-verantwortung-in-der-beschaffung-aufbauen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#vertrauen-und-verantwortung-in-der-beschaffung-aufbauen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -156,9 +162,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;einkaufs_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/purchasing/purchasing_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;einkaufs_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/purchasing/purchasing_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -177,7 +182,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#zuverl%c3%a4ssige-pumpenl%c3%b6sungen-f%c3%bcr-energieanwendungen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#zuverl%c3%a4ssige-pumpenl%c3%b6sungen-f%c3%bcr-energieanwendungen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -196,7 +202,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#praxisnahe-anwendungen-von-pumpensystemen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#praxisnahe-anwendungen-von-pumpensystemen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -215,7 +222,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#umweltverantwortung-und-nachhaltige-praktiken-bei-assoma&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#umweltverantwortung-und-nachhaltige-praktiken-bei-assoma&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -225,9 +233,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;green-assoma_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/green-assoma/green-assoma_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;green-assoma_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/green-assoma/green-assoma_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -246,7 +253,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#unser-ansatz-f%c3%bcr-nachhaltige-innovation&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unser-ansatz-f%c3%bcr-nachhaltige-innovation&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -265,7 +273,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#technisch-gefertigte-kunststoffpumpen-f%c3%bcr-anspruchsvolle-chemische-anwendungen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#technisch-gefertigte-kunststoffpumpen-f%c3%bcr-anspruchsvolle-chemische-anwendungen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -285,9 +294,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;elektronik_banner&#34; src=&#34;https://www.assoma.com/storage/media/application/electronics_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;elektronik_banner&#34; src=&#34;https://www.assoma.com/storage/media/application/electronics_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -298,7 +306,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#die-rolle-fortschrittlicher-ausr%c3%bcstung-in-der-leiterplattenfertigung&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#die-rolle-fortschrittlicher-ausr%c3%bcstung-in-der-leiterplattenfertigung&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -317,7 +326,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#unsere-reise-nachzeichnen-wichtige-meilensteine-in-der-entwicklung-von-assoma&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unsere-reise-nachzeichnen-wichtige-meilensteine-in-der-entwicklung-von-assoma&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -327,9 +337,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Meilensteine_Banner&#34; src=&#34;https://www.assoma.com/storage/media/company/milestones/milestones_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Meilensteine_Banner&#34; src=&#34;https://www.assoma.com/storage/media/company/milestones/milestones_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -348,7 +357,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#verst%c3%a4ndnis-eines-zuverl%c3%a4ssigen-pumpenbetriebs&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#verst%c3%a4ndnis-eines-zuverl%c3%a4ssigen-pumpenbetriebs&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -367,7 +377,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#sicherstellung-der-pumpenverl%c3%a4sslichkeit-mit-%c3%bcberwachungs--und-schutzger%c3%a4ten&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#sicherstellung-der-pumpenverl%c3%a4sslichkeit-mit-%c3%bcberwachungs--und-schutzger%c3%a4ten&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -386,7 +397,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#einf%c3%bchrung&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#einf%c3%bchrung&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -405,7 +417,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#unser-ansatz-f%c3%bcr-exzellenz-und-nachhaltigkeit&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#unser-ansatz-f%c3%bcr-exzellenz-und-nachhaltigkeit&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -415,9 +428,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;unsere-richtlinien_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/our-policies/our-policies_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;unsere-richtlinien_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/our-policies/our-policies_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -436,7 +448,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#grundlegende-%c3%bcberlegungen-zur-auswahl-von-pumpsystemen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#grundlegende-%c3%bcberlegungen-zur-auswahl-von-pumpsystemen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -446,9 +459,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;articles_banner&#34; src=&#34;https://www.assoma.com/storage/media/articles/articles_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;articles_banner&#34; src=&#34;https://www.assoma.com/storage/media/articles/articles_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -467,7 +479,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#innovative-ans%c3%a4tze-im-umweltingenieurwesen-f%c3%bcr-die-wasseraufbereitung&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#innovative-ans%c3%a4tze-im-umweltingenieurwesen-f%c3%bcr-die-wasseraufbereitung&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -477,9 +490,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;elektronik_banner&#34; src=&#34;https://www.assoma.com/storage/media/application/water-treatement_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;elektronik_banner&#34; src=&#34;https://www.assoma.com/storage/media/application/water-treatement_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -498,7 +510,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#engagement-f%c3%bcr-die-weiterentwicklung-der-pumpentechnologie-und-des-kundenwerts&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#engagement-f%c3%bcr-die-weiterentwicklung-der-pumpentechnologie-und-des-kundenwerts&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -508,9 +521,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;unsere-marke_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/our-brand/our-brand_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;unsere-marke_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/our-brand/our-brand_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -529,7 +541,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#rahmenwerk-f%c3%bcr-effektive-unternehmensaufsicht-und-vorstandsstruktur&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rahmenwerk-f%c3%bcr-effektive-unternehmensaufsicht-und-vorstandsstruktur&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -539,9 +552,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Unternehmensführung_Banner.jpg&#34; src=&#34;https://www.assoma.com/storage/media/company/company-governance/company-governance_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Unternehmensführung_Banner.jpg&#34; src=&#34;https://www.assoma.com/storage/media/company/company-governance/company-governance_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -560,7 +572,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#engagement-f%c3%bcr-soziale-verantwortung-und-nachhaltige-praktiken&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#engagement-f%c3%bcr-soziale-verantwortung-und-nachhaltige-praktiken&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -570,9 +583,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Banner zur unternehmerischen Verantwortung&#34; src=&#34;https://www.assoma.com/storage/media/company/corporate-responsibility/corporate-responsibility_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Banner zur unternehmerischen Verantwortung&#34; src=&#34;https://www.assoma.com/storage/media/company/corporate-responsibility/corporate-responsibility_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -591,7 +603,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#assomas-internationales-vertriebs--und-servicenetzwerk&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#assomas-internationales-vertriebs--und-servicenetzwerk&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -610,7 +623,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#wesentliche-erkenntnisse-zur-wartung-von-pumpsystemen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#wesentliche-erkenntnisse-zur-wartung-von-pumpsystemen&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;

@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#costruire-fiducia-e-responsabilit%c3%a0-nellapprovvigionamento&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#costruire-fiducia-e-responsabilit%c3%a0-nellapprovvigionamento&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -30,9 +31,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;banner_acquisti&#34; src=&#34;https://www.assoma.com/storage/media/company/purchasing/purchasing_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;banner_acquisti&#34; src=&#34;https://www.assoma.com/storage/media/company/purchasing/purchasing_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -51,7 +51,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduzione&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduzione&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -70,7 +71,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#soluzioni-di-pompe-affidabili-per-applicazioni-energetiche&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#soluzioni-di-pompe-affidabili-per-applicazioni-energetiche&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -89,7 +91,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#raduni-del-settore-e-momenti-salienti-degli-eventi&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#raduni-del-settore-e-momenti-salienti-degli-eventi&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -108,7 +111,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#filtrazione-affidabile-per-applicazioni-chimiche-esigenti&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#filtrazione-affidabile-per-applicazioni-chimiche-esigenti&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -127,7 +131,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#considerazioni-fondamentali-per-la-selezione-dei-sistemi-di-pompe&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#considerazioni-fondamentali-per-la-selezione-dei-sistemi-di-pompe&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -137,9 +142,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;articles_banner&#34; src=&#34;https://www.assoma.com/storage/media/articles/articles_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;articles_banner&#34; src=&#34;https://www.assoma.com/storage/media/articles/articles_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -158,7 +162,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#comprendere-il-funzionamento-affidabile-della-pompa&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#comprendere-il-funzionamento-affidabile-della-pompa&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -177,7 +182,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#quadro-per-una-supervisione-aziendale-efficace-e-struttura-del-consiglio&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#quadro-per-una-supervisione-aziendale-efficace-e-struttura-del-consiglio&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -187,9 +193,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;company-governance_banner.jpg&#34; src=&#34;https://www.assoma.com/storage/media/company/company-governance/company-governance_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;company-governance_banner.jpg&#34; src=&#34;https://www.assoma.com/storage/media/company/company-governance/company-governance_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -208,7 +213,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#responsabilit%c3%a0-ambientale-e-pratiche-sostenibili-presso-assoma&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#responsabilit%c3%a0-ambientale-e-pratiche-sostenibili-presso-assoma&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -218,9 +224,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;green-assoma_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/green-assoma/green-assoma_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;green-assoma_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/green-assoma/green-assoma_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -239,7 +244,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#impegno-per-il-progresso-della-tecnologia-delle-pompe-e-il-valore-per-il-cliente&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#impegno-per-il-progresso-della-tecnologia-delle-pompe-e-il-valore-per-il-cliente&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -249,9 +255,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;banner-nostro-marchio&#34; src=&#34;https://www.assoma.com/storage/media/company/our-brand/our-brand_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;banner-nostro-marchio&#34; src=&#34;https://www.assoma.com/storage/media/company/our-brand/our-brand_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -270,7 +275,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#soluzioni-personalizzate-per-pompe-nelle-complesse-esigenze-dellindustria-chimica&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#soluzioni-personalizzate-per-pompe-nelle-complesse-esigenze-dellindustria-chimica&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -280,9 +286,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Applicazioni nell&amp;rsquo;Industria Chimica&#34; src=&#34;https://www.assoma.com/storage/media/application/chemical_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Applicazioni nell&amp;rsquo;Industria Chimica&#34; src=&#34;https://www.assoma.com/storage/media/application/chemical_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -302,9 +307,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;banner_elettronica&#34; src=&#34;https://www.assoma.com/storage/media/application/electronics_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;banner_elettronica&#34; src=&#34;https://www.assoma.com/storage/media/application/electronics_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -315,7 +319,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#il-ruolo-delle-attrezzature-avanzate-nella-produzione-di-pcb&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#il-ruolo-delle-attrezzature-avanzate-nella-produzione-di-pcb&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -334,7 +339,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#approcci-innovativi-nellingegneria-ambientale-per-il-trattamento-delle-acque&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#approcci-innovativi-nellingegneria-ambientale-per-il-trattamento-delle-acque&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -344,9 +350,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;electronics_banner&#34; src=&#34;https://www.assoma.com/storage/media/application/water-treatement_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;electronics_banner&#34; src=&#34;https://www.assoma.com/storage/media/application/water-treatement_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -365,7 +370,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#approfondimenti-essenziali-per-la-manutenzione-dei-sistemi-di-pompe&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#approfondimenti-essenziali-per-la-manutenzione-dei-sistemi-di-pompe&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -384,7 +390,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#garantire-laffidabilit%c3%a0-delle-pompe-con-dispositivi-di-monitoraggio-e-protezione&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#garantire-laffidabilit%c3%a0-delle-pompe-con-dispositivi-di-monitoraggio-e-protezione&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -403,7 +410,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#ultimi-aggiornamenti-da-assoma&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ultimi-aggiornamenti-da-assoma&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -422,7 +430,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#il-nostro-approccio-alleccellenza-e-alla-sostenibilit%c3%a0&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#il-nostro-approccio-alleccellenza-e-alla-sostenibilit%c3%a0&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -432,9 +441,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;our-policies_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/our-policies/our-policies_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;our-policies_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/our-policies/our-policies_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -453,7 +461,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pompe-in-plastica-ingegnerizzata-per-applicazioni-chimiche-esigenti&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pompe-in-plastica-ingegnerizzata-per-applicazioni-chimiche-esigenti&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -472,7 +481,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#protezione-progettata-pompe-rivestite-per-sostanze-chimiche-corrosive-e-pericolose&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#protezione-progettata-pompe-rivestite-per-sostanze-chimiche-corrosive-e-pericolose&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -491,7 +501,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#celebrazione-del-riconoscimento-del-settore-e-delleccellenza-del-prodotto&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#celebrazione-del-riconoscimento-del-settore-e-delleccellenza-del-prodotto&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -510,7 +521,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#impegno-per-la-responsabilit%c3%a0-sociale-e-le-pratiche-sostenibili&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#impegno-per-la-responsabilit%c3%a0-sociale-e-le-pratiche-sostenibili&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -520,9 +532,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Banner della Responsabilità Aziendale&#34; src=&#34;https://www.assoma.com/storage/media/company/corporate-responsibility/corporate-responsibility_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;Banner della Responsabilità Aziendale&#34; src=&#34;https://www.assoma.com/storage/media/company/corporate-responsibility/corporate-responsibility_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -541,7 +552,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#rete-internazionale-di-vendita-e-assistenza-di-assoma&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rete-internazionale-di-vendita-e-assistenza-di-assoma&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -560,7 +572,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#applicazioni-reali-dei-sistemi-di-pompe&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#applicazioni-reali-dei-sistemi-di-pompe&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -579,7 +592,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#tracciare-il-nostro-percorso-traguardi-chiave-nello-sviluppo-di-assoma&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#tracciare-il-nostro-percorso-traguardi-chiave-nello-sviluppo-di-assoma&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -589,9 +603,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;banner_traguardi&#34; src=&#34;https://www.assoma.com/storage/media/company/milestones/milestones_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;banner_traguardi&#34; src=&#34;https://www.assoma.com/storage/media/company/milestones/milestones_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -610,7 +623,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#il-nostro-approccio-allinnovazione-sostenibile&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#il-nostro-approccio-allinnovazione-sostenibile&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;

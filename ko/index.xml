@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#assoma%ec%9d%98-%ec%b5%9c%ec%8b%a0-%ed%95%98%ec%9d%b4%eb%9d%bc%ec%9d%b4%ed%8a%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#assoma%ec%9d%98-%ec%b5%9c%ec%8b%a0-%ed%95%98%ec%9d%b4%eb%9d%bc%ec%9d%b4%ed%8a%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%84%a0%ed%83%9d%ec%9d%84-%ec%9c%84%ed%95%9c-%ea%b8%b0%eb%b3%b8-%ea%b3%a0%eb%a0%a4%ec%82%ac%ed%95%ad&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%84%a0%ed%83%9d%ec%9d%84-%ec%9c%84%ed%95%9c-%ea%b8%b0%eb%b3%b8-%ea%b3%a0%eb%a0%a4%ec%82%ac%ed%95%ad&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -49,9 +51,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;articles_banner&#34; src=&#34;https://www.assoma.com/storage/media/articles/articles_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;articles_banner&#34; src=&#34;https://www.assoma.com/storage/media/articles/articles_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -70,7 +71,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%a1%b0%eb%8b%ac%ec%97%90%ec%84%9c-%ec%8b%a0%eb%a2%b0%ec%99%80-%ec%b1%85%ec%9e%84-%ea%b5%ac%ec%b6%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%a1%b0%eb%8b%ac%ec%97%90%ec%84%9c-%ec%8b%a0%eb%a2%b0%ec%99%80-%ec%b1%85%ec%9e%84-%ea%b5%ac%ec%b6%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -80,9 +82,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;purchasing_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/purchasing/purchasing_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;purchasing_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/purchasing/purchasing_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -101,7 +102,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#assoma%ec%9d%98-%ed%99%98%ea%b2%bd-%ec%b1%85%ec%9e%84-%eb%b0%8f-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%8b%a4%ec%b2%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#assoma%ec%9d%98-%ed%99%98%ea%b2%bd-%ec%b1%85%ec%9e%84-%eb%b0%8f-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%8b%a4%ec%b2%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -111,9 +113,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;그린-ASSOMA_배너&#34; src=&#34;https://www.assoma.com/storage/media/company/green-assoma/green-assoma_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;그린-ASSOMA_배너&#34; src=&#34;https://www.assoma.com/storage/media/company/green-assoma/green-assoma_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -132,7 +133,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%9a%a8%ea%b3%bc%ec%a0%81%ec%9d%b8-%ea%b8%b0%ec%97%85-%ea%b0%90%eb%8f%85-%eb%b0%8f-%ec%9d%b4%ec%82%ac%ed%9a%8c-%ea%b5%ac%ec%a1%b0%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%9a%a8%ea%b3%bc%ec%a0%81%ec%9d%b8-%ea%b8%b0%ec%97%85-%ea%b0%90%eb%8f%85-%eb%b0%8f-%ec%9d%b4%ec%82%ac%ed%9a%8c-%ea%b5%ac%ec%a1%b0%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -142,9 +144,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;company-governance_banner.jpg&#34; src=&#34;https://www.assoma.com/storage/media/company/company-governance/company-governance_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;company-governance_banner.jpg&#34; src=&#34;https://www.assoma.com/storage/media/company/company-governance/company-governance_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -163,7 +164,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%82%ac%ed%9a%8c%ec%a0%81-%ec%b1%85%ec%9e%84%ea%b3%bc-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%8b%a4%ec%b2%9c%ec%97%90-%eb%8c%80%ed%95%9c-%ec%95%bd%ec%86%8d&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%82%ac%ed%9a%8c%ec%a0%81-%ec%b1%85%ec%9e%84%ea%b3%bc-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%8b%a4%ec%b2%9c%ec%97%90-%eb%8c%80%ed%95%9c-%ec%95%bd%ec%86%8d&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -173,9 +175,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;기업의 사회적 책임 배너&#34; src=&#34;https://www.assoma.com/storage/media/company/corporate-responsibility/corporate-responsibility_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;기업의 사회적 책임 배너&#34; src=&#34;https://www.assoma.com/storage/media/company/corporate-responsibility/corporate-responsibility_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -194,7 +195,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%84%a4%ea%b3%84%eb%90%9c-%eb%b3%b4%ed%98%b8-%eb%b6%80%ec%8b%9d%ec%84%b1-%eb%b0%8f-%ec%9c%84%ed%97%98-%ed%99%94%ed%95%99%eb%ac%bc%ec%a7%88%ec%9a%a9-%eb%82%b4%eb%b6%80-%eb%9d%bc%ec%9d%b4%eb%8b%9d-%ed%8e%8c%ed%94%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%84%a4%ea%b3%84%eb%90%9c-%eb%b3%b4%ed%98%b8-%eb%b6%80%ec%8b%9d%ec%84%b1-%eb%b0%8f-%ec%9c%84%ed%97%98-%ed%99%94%ed%95%99%eb%ac%bc%ec%a7%88%ec%9a%a9-%eb%82%b4%eb%b6%80-%eb%9d%bc%ec%9d%b4%eb%8b%9d-%ed%8e%8c%ed%94%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -213,7 +215,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%98-%ec%8b%a4%ec%a0%9c-%ec%a0%81%ec%9a%a9-%ec%82%ac%eb%a1%80&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%98-%ec%8b%a4%ec%a0%9c-%ec%a0%81%ec%9a%a9-%ec%82%ac%eb%a1%80&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -232,7 +235,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%82%b0%ec%97%85-%ec%9d%b8%ec%a0%95%ea%b3%bc-%ec%a0%9c%ed%92%88-%ec%9a%b0%ec%88%98%ec%84%b1-%ec%b6%95%ed%95%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%82%b0%ec%97%85-%ec%9d%b8%ec%a0%95%ea%b3%bc-%ec%a0%9c%ed%92%88-%ec%9a%b0%ec%88%98%ec%84%b1-%ec%b6%95%ed%95%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -251,7 +255,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%97%90%eb%84%88%ec%a7%80-%ec%a0%81%ec%9a%a9%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%ed%8e%8c%ed%95%91-%ec%86%94%eb%a3%a8%ec%85%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%97%90%eb%84%88%ec%a7%80-%ec%a0%81%ec%9a%a9%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%ed%8e%8c%ed%95%91-%ec%86%94%eb%a3%a8%ec%85%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -270,7 +275,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#assoma%ec%9d%98-%ea%b5%ad%ec%a0%9c-%ec%98%81%ec%97%85-%eb%b0%8f-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#assoma%ec%9d%98-%ea%b5%ad%ec%a0%9c-%ec%98%81%ec%97%85-%eb%b0%8f-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -289,7 +295,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ea%b8%b0%ec%88%a0-%eb%b0%9c%ec%a0%84%ea%b3%bc-%ea%b3%a0%ea%b0%9d-%ea%b0%80%ec%b9%98%ec%97%90-%eb%8c%80%ed%95%9c-%ed%97%8c%ec%8b%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ea%b8%b0%ec%88%a0-%eb%b0%9c%ec%a0%84%ea%b3%bc-%ea%b3%a0%ea%b0%9d-%ea%b0%80%ec%b9%98%ec%97%90-%eb%8c%80%ed%95%9c-%ed%97%8c%ec%8b%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -299,9 +306,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;우리 브랜드 배너&#34; src=&#34;https://www.assoma.com/storage/media/company/our-brand/our-brand_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;우리 브랜드 배너&#34; src=&#34;https://www.assoma.com/storage/media/company/our-brand/our-brand_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -320,7 +326,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%9c%a0%ec%a7%80%eb%b3%b4%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%95%84%ec%88%98-%ec%9d%b8%ec%82%ac%ec%9d%b4%ed%8a%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%8e%8c%ed%94%84-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%9c%a0%ec%a7%80%eb%b3%b4%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%95%84%ec%88%98-%ec%9d%b8%ec%82%ac%ec%9d%b4%ed%8a%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -340,9 +347,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;전자제품_배너&#34; src=&#34;https://www.assoma.com/storage/media/application/electronics_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;전자제품_배너&#34; src=&#34;https://www.assoma.com/storage/media/application/electronics_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -353,7 +359,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pcb-%ec%a0%9c%ec%a1%b0%ec%97%90%ec%84%9c-%ec%b2%a8%eb%8b%a8-%ec%9e%a5%eb%b9%84%ec%9d%98-%ec%97%ad%ed%95%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pcb-%ec%a0%9c%ec%a1%b0%ec%97%90%ec%84%9c-%ec%b2%a8%eb%8b%a8-%ec%9e%a5%eb%b9%84%ec%9d%98-%ec%97%ad%ed%95%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -372,7 +379,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%82%b0%ec%97%85-%eb%aa%a8%ec%9e%84-%eb%b0%8f-%ec%9d%b4%eb%b2%a4%ed%8a%b8-%ed%95%98%ec%9d%b4%eb%9d%bc%ec%9d%b4%ed%8a%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%82%b0%ec%97%85-%eb%aa%a8%ec%9e%84-%eb%b0%8f-%ec%9d%b4%eb%b2%a4%ed%8a%b8-%ed%95%98%ec%9d%b4%eb%9d%bc%ec%9d%b4%ed%8a%b8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -391,7 +399,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%83%81%ec%9b%94%ed%95%a8%ea%b3%bc-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%a0%91%ea%b7%bc&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%83%81%ec%9b%94%ed%95%a8%ea%b3%bc-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%a0%91%ea%b7%bc&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -401,9 +410,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;our-policies_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/our-policies/our-policies_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;our-policies_banner&#34; src=&#34;https://www.assoma.com/storage/media/company/our-policies/our-policies_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -422,7 +430,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ed%95%9c-%ed%98%81%ec%8b%a0%ec%97%90-%eb%8c%80%ed%95%9c-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%a0%91%ea%b7%bc&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ed%95%9c-%ed%98%81%ec%8b%a0%ec%97%90-%eb%8c%80%ed%95%9c-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%a0%91%ea%b7%bc&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -441,7 +450,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%eb%aa%a8%eb%8b%88%ed%84%b0%eb%a7%81-%eb%b0%8f-%eb%b3%b4%ed%98%b8-%ec%9e%a5%ec%b9%98%eb%a1%9c-%ed%8e%8c%ed%94%84-%ec%8b%a0%eb%a2%b0%ec%84%b1-%ed%99%95%eb%b3%b4&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%eb%aa%a8%eb%8b%88%ed%84%b0%eb%a7%81-%eb%b0%8f-%eb%b3%b4%ed%98%b8-%ec%9e%a5%ec%b9%98%eb%a1%9c-%ed%8e%8c%ed%94%84-%ec%8b%a0%eb%a2%b0%ec%84%b1-%ed%99%95%eb%b3%b4&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -460,7 +470,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%ed%8e%8c%ed%94%84-%ec%9a%b4%ec%a0%84-%ec%9d%b4%ed%95%b4%ed%95%98%ea%b8%b0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%ed%8e%8c%ed%94%84-%ec%9a%b4%ec%a0%84-%ec%9d%b4%ed%95%b4%ed%95%98%ea%b8%b0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -479,7 +490,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%86%8c%ea%b0%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%86%8c%ea%b0%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -498,7 +510,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ea%b9%8c%eb%8b%a4%eb%a1%9c%ec%9a%b4-%ed%99%94%ed%95%99-%ec%9d%91%ec%9a%a9-%eb%b6%84%ec%95%bc%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%ec%97%ac%ea%b3%bc&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ea%b9%8c%eb%8b%a4%eb%a1%9c%ec%9a%b4-%ed%99%94%ed%95%99-%ec%9d%91%ec%9a%a9-%eb%b6%84%ec%95%bc%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%ec%97%ac%ea%b3%bc&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -517,7 +530,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ea%b9%8c%eb%8b%a4%eb%a1%9c%ec%9a%b4-%ed%99%94%ed%95%99-%ec%9d%91%ec%9a%a9%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ed%8e%8c%ed%94%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ea%b9%8c%eb%8b%a4%eb%a1%9c%ec%9a%b4-%ed%99%94%ed%95%99-%ec%9d%91%ec%9a%a9%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ed%94%8c%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ed%8e%8c%ed%94%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -536,7 +550,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%eb%b3%b5%ec%9e%a1%ed%95%9c-%ed%99%94%ed%95%99-%ec%82%b0%ec%97%85-%ec%9a%94%ea%b5%ac%ec%97%90-%eb%a7%9e%ec%b6%98-%eb%a7%9e%ec%b6%a4%ed%98%95-%ed%8e%8c%ed%94%84-%ec%86%94%eb%a3%a8%ec%85%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%eb%b3%b5%ec%9e%a1%ed%95%9c-%ed%99%94%ed%95%99-%ec%82%b0%ec%97%85-%ec%9a%94%ea%b5%ac%ec%97%90-%eb%a7%9e%ec%b6%98-%eb%a7%9e%ec%b6%a4%ed%98%95-%ed%8e%8c%ed%94%84-%ec%86%94%eb%a3%a8%ec%85%98&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -546,9 +561,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;화학 산업 적용 사례&#34; src=&#34;https://www.assoma.com/storage/media/application/chemical_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;화학 산업 적용 사례&#34; src=&#34;https://www.assoma.com/storage/media/application/chemical_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -567,7 +581,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%88%98%ec%b2%98%eb%a6%ac%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%99%98%ea%b2%bd%ea%b3%b5%ed%95%99%ec%9d%98-%ed%98%81%ec%8b%a0%ec%a0%81-%ec%a0%91%ea%b7%bc%eb%b2%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%88%98%ec%b2%98%eb%a6%ac%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%99%98%ea%b2%bd%ea%b3%b5%ed%95%99%ec%9d%98-%ed%98%81%ec%8b%a0%ec%a0%81-%ec%a0%91%ea%b7%bc%eb%b2%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -577,9 +592,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;electronics_banner&#34; src=&#34;https://www.assoma.com/storage/media/application/water-treatement_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;electronics_banner&#34; src=&#34;https://www.assoma.com/storage/media/application/water-treatement_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
@@ -598,7 +612,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#assoma-%eb%b0%9c%ec%a0%84-%ec%97%ac%ec%a0%95-%ec%b6%94%ec%a0%81-%ec%a3%bc%ec%9a%94-%ec%9d%b4%ec%a0%95%ed%91%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#assoma-%eb%b0%9c%ec%a0%84-%ec%97%ac%ec%a0%95-%ec%b6%94%ec%a0%81-%ec%a3%bc%ec%9a%94-%ec%9d%b4%ec%a0%95%ed%91%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -608,9 +623,8 @@
 
 
 
-
 &lt;figure&gt;
-    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;이정표_배너&#34; src=&#34;https://www.assoma.com/storage/media/company/milestones/milestones_banner.jpg&#34;&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;이정표_배너&#34; src=&#34;https://www.assoma.com/storage/media/company/milestones/milestones_banner.jpg&#34; /&gt;
 
   
 &lt;/figure&gt;
