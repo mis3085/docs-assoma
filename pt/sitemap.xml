@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://smp.assoma.com/pt/our-company/taf-accreditation/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.assoma.com/en/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.assoma.com/de/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.assoma.com/es/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.assoma.com/fr/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.assoma.com/it/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.assoma.com/ru/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.assoma.com/hi/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.assoma.com/ko/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.assoma.com/ja/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.assoma.com/ar/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.assoma.com/zh-tw/our-company/taf-accreditation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.assoma.com/pt/our-company/taf-accreditation/"
+    />
+  </url>
+  <url>
     <loc>https://smp.assoma.com/pt/applications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -68,843 +133,328 @@
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/</loc>
+    <loc>https://smp.assoma.com/pt/shop/plastic-chemical-pumps-4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/"
+      href="https://smp.assoma.com/en/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/"
+      href="https://smp.assoma.com/de/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/"
+      href="https://smp.assoma.com/es/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/"
+      href="https://smp.assoma.com/fr/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/"
+      href="https://smp.assoma.com/it/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/"
+      href="https://smp.assoma.com/ru/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.assoma.com/ar/"
+      href="https://smp.assoma.com/ar/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.assoma.com/hi/"
+      href="https://smp.assoma.com/hi/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.assoma.com/ja/"
+      href="https://smp.assoma.com/ja/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.assoma.com/ko/"
+      href="https://smp.assoma.com/ko/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/"
+      href="https://smp.assoma.com/zh-tw/shop/plastic-chemical-pumps-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/"
+      href="https://smp.assoma.com/pt/shop/plastic-chemical-pumps-4/"
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/products/plastic-chemical-pumps/</loc>
+    <loc>https://smp.assoma.com/pt/shop/lined-chemical-pump-5/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/en/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/de/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/es/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/fr/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/it/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/ru/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.assoma.com/ar/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/ar/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.assoma.com/hi/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/hi/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.assoma.com/ja/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/ja/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.assoma.com/ko/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/ko/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/zh-tw/shop/lined-chemical-pump-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/products/plastic-chemical-pumps/"
+      href="https://smp.assoma.com/pt/shop/lined-chemical-pump-5/"
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/products/lining-pump/</loc>
+    <loc>https://smp.assoma.com/pt/contactus/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/products/lining-pump/"
+      href="https://smp.assoma.com/en/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/products/lining-pump/"
+      href="https://smp.assoma.com/de/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/products/lining-pump/"
+      href="https://smp.assoma.com/es/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/products/lining-pump/"
+      href="https://smp.assoma.com/fr/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/products/lining-pump/"
+      href="https://smp.assoma.com/it/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/products/lining-pump/"
+      href="https://smp.assoma.com/ru/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.assoma.com/ar/products/lining-pump/"
+      href="https://smp.assoma.com/ar/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.assoma.com/hi/products/lining-pump/"
+      href="https://smp.assoma.com/hi/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.assoma.com/ja/products/lining-pump/"
+      href="https://smp.assoma.com/ja/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.assoma.com/ko/products/lining-pump/"
+      href="https://smp.assoma.com/ko/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/products/lining-pump/"
+      href="https://smp.assoma.com/zh-tw/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/products/lining-pump/"
+      href="https://smp.assoma.com/pt/contactus/"
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/our-company/purchasing/</loc>
+    <loc>https://smp.assoma.com/pt/our-company/esg/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/our-company/purchasing/"
+      href="https://smp.assoma.com/en/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/our-company/purchasing/"
+      href="https://smp.assoma.com/de/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/our-company/purchasing/"
+      href="https://smp.assoma.com/es/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/our-company/purchasing/"
+      href="https://smp.assoma.com/fr/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/our-company/purchasing/"
+      href="https://smp.assoma.com/it/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/our-company/purchasing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/our-company/purchasing/"
+      href="https://smp.assoma.com/ru/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.assoma.com/hi/our-company/purchasing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/our-company/purchasing/"
+      href="https://smp.assoma.com/hi/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.assoma.com/ko/our-company/purchasing/"
+      href="https://smp.assoma.com/ko/our-company/esg/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.assoma.com/ja/our-company/esg/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.assoma.com/ar/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/our-company/purchasing/"
+      href="https://smp.assoma.com/zh-tw/our-company/esg/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/our-company/purchasing/"
+      href="https://smp.assoma.com/pt/our-company/esg/"
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/news/pump-knowledge/</loc>
+    <loc>https://smp.assoma.com/pt/shop/chemical-filters-with-pump-7/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/news/pump-knowledge/"
+      href="https://smp.assoma.com/en/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/news/pump-knowledge/"
+      href="https://smp.assoma.com/de/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/news/pump-knowledge/"
+      href="https://smp.assoma.com/es/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/news/pump-knowledge/"
+      href="https://smp.assoma.com/fr/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/news/pump-knowledge/"
+      href="https://smp.assoma.com/it/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/news/pump-knowledge/"
+      href="https://smp.assoma.com/ru/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.assoma.com/ar/news/pump-knowledge/"
+      href="https://smp.assoma.com/ar/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.assoma.com/hi/news/pump-knowledge/"
+      href="https://smp.assoma.com/hi/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.assoma.com/ja/news/pump-knowledge/"
+      href="https://smp.assoma.com/ja/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.assoma.com/ko/news/pump-knowledge/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/news/pump-knowledge/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/contact/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/contact/"
+      href="https://smp.assoma.com/ko/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/contact/"
+      href="https://smp.assoma.com/zh-tw/shop/chemical-filters-with-pump-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/contact/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/applications/energy/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/applications/energy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/applications/energy/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/applications/water-treatement/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/applications/water-treatement/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/applications/water-treatement/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/applications/pump-case-studies/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/applications/pump-case-studies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/applications/pump-case-studies/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/news/exhibitions-events/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/news/exhibitions-events/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/news/exhibitions-events/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/products/chemical-pump-filters/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/products/chemical-pump-filters/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/products/chemical-pump-filters/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/our-company/corporate-governance/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/our-company/corporate-governance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/our-company/corporate-governance/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/our-company/green-assoma/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/our-company/green-assoma/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/our-company/green-assoma/"
+      href="https://smp.assoma.com/pt/shop/chemical-filters-with-pump-7/"
     />
   </url>
   <url>
@@ -943,13 +493,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/applications/pcb-industry/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/applications/pcb-industry/"
+      hreflang="ko"
+      href="https://smp.assoma.com/ko/applications/pcb-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -958,8 +503,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/applications/pcb-industry/"
+      hreflang="ar"
+      href="https://smp.assoma.com/ar/applications/pcb-industry/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.assoma.com/hi/applications/pcb-industry/"
     />
     <xhtml:link
       rel="alternate"
@@ -1038,193 +588,198 @@
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/news/pump-system-maintenance/</loc>
+    <loc>https://smp.assoma.com/pt/our-company/milestones/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/en/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/de/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/es/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/fr/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/it/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/ru/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.assoma.com/ar/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/ar/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.assoma.com/hi/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/hi/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.assoma.com/ja/news/pump-system-maintenance/"
+      href="https://smp.assoma.com/ja/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.assoma.com/ko/news/pump-system-maintenance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/news/pump-system-maintenance/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/our-company/company-milestones/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/our-company/company-milestones/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/our-company/company-milestones/"
+      href="https://smp.assoma.com/ko/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/our-company/company-milestones/"
+      href="https://smp.assoma.com/zh-tw/our-company/milestones/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/our-company/company-milestones/"
+      href="https://smp.assoma.com/pt/our-company/milestones/"
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/products/pump-protector-monitor/</loc>
+    <loc>https://smp.assoma.com/pt/our-company/mission-vision/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/en/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/de/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/es/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/fr/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/it/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/ru/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.assoma.com/ar/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/ar/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.assoma.com/hi/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/hi/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.assoma.com/ja/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/ja/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.assoma.com/ko/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/ko/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/zh-tw/our-company/mission-vision/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/products/pump-protector-monitor/"
+      href="https://smp.assoma.com/pt/our-company/mission-vision/"
+    />
+  </url>
+  <url>
+    <loc>https://smp.assoma.com/pt/shop/pump-monitor-and-dry-run-protector-6/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://smp.assoma.com/en/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://smp.assoma.com/de/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://smp.assoma.com/es/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://smp.assoma.com/fr/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://smp.assoma.com/it/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://smp.assoma.com/ru/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.assoma.com/ar/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.assoma.com/hi/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.assoma.com/ja/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.assoma.com/ko/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.assoma.com/zh-tw/shop/pump-monitor-and-dry-run-protector-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://smp.assoma.com/pt/shop/pump-monitor-and-dry-run-protector-6/"
     />
   </url>
   <url>
@@ -1263,6 +818,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ko"
+      href="https://smp.assoma.com/ko/our-company/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://smp.assoma.com/ar/our-company/"
     />
@@ -1278,11 +838,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/our-company/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="zh-tw"
       href="https://smp.assoma.com/zh-tw/our-company/"
     />
@@ -1290,71 +845,6 @@
       rel="alternate"
       hreflang="pt"
       href="https://smp.assoma.com/pt/our-company/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/our-company/our-brand/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/our-company/our-brand/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/our-company/our-brand/"
     />
   </url>
   <url>
@@ -1423,573 +913,133 @@
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/news/assoma-news/</loc>
+    <loc>https://smp.assoma.com/pt/shop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/news/assoma-news/"
+      href="https://smp.assoma.com/en/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/news/assoma-news/"
+      href="https://smp.assoma.com/de/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/news/assoma-news/"
+      href="https://smp.assoma.com/es/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/news/assoma-news/"
+      href="https://smp.assoma.com/fr/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/news/assoma-news/"
+      href="https://smp.assoma.com/it/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/news/assoma-news/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/news/assoma-news/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/news/assoma-news/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/news/assoma-news/"
+      href="https://smp.assoma.com/ru/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.assoma.com/ar/news/assoma-news/"
+      href="https://smp.assoma.com/ar/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.assoma.com/hi/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://smp.assoma.com/ja/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://smp.assoma.com/ko/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/news/assoma-news/"
+      href="https://smp.assoma.com/zh-tw/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/news/assoma-news/"
+      href="https://smp.assoma.com/pt/shop/"
     />
   </url>
   <url>
-    <loc>https://smp.assoma.com/pt/news/pump-operation/</loc>
+    <loc>https://smp.assoma.com/pt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://smp.assoma.com/en/news/pump-operation/"
+      href="https://smp.assoma.com/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://smp.assoma.com/de/news/pump-operation/"
+      href="https://smp.assoma.com/de/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://smp.assoma.com/es/news/pump-operation/"
+      href="https://smp.assoma.com/es/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://smp.assoma.com/fr/news/pump-operation/"
+      href="https://smp.assoma.com/fr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://smp.assoma.com/it/news/pump-operation/"
+      href="https://smp.assoma.com/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://smp.assoma.com/ru/news/pump-operation/"
+      href="https://smp.assoma.com/ru/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://smp.assoma.com/ar/news/pump-operation/"
+      href="https://smp.assoma.com/ar/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://smp.assoma.com/hi/news/pump-operation/"
+      href="https://smp.assoma.com/hi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://smp.assoma.com/ja/news/pump-operation/"
+      href="https://smp.assoma.com/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://smp.assoma.com/ko/news/pump-operation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/news/pump-operation/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/our-company/policies/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/our-company/policies/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/our-company/policies/"
+      href="https://smp.assoma.com/ko/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/our-company/policies/"
+      href="https://smp.assoma.com/zh-tw/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://smp.assoma.com/pt/our-company/policies/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/news/awards/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/news/awards/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/news/awards/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/products/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/products/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/products/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/contact/locations/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/contact/locations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/contact/locations/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/our-company/corporate-responsibility/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://smp.assoma.com/zh-tw/our-company/corporate-responsibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/our-company/corporate-responsibility/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/news/basics-training-of-a-pump-system/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/news/basics-training-of-a-pump-system/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/news/basics-training-of-a-pump-system/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.assoma.com/pt/news/green-and-environment/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.assoma.com/en/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.assoma.com/de/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.assoma.com/es/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.assoma.com/fr/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.assoma.com/it/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.assoma.com/ru/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.assoma.com/ar/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.assoma.com/hi/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.assoma.com/ja/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.assoma.com/ko/news/green-and-environment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.assoma.com/pt/news/green-and-environment/"
+      href="https://smp.assoma.com/pt/"
     />
   </url>
 </urlset>
